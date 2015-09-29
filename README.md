@@ -1,18 +1,12 @@
-Title Ideas:
+# Title
 
-* The 10 Habits of Highly Effective Speakers
-* The 10 Commandments of Effective Speaking
-* The 10 Practices of Great Technical Speakers
-* 10 Steps To a Great Talk
-* A 10 Step Program For Great Tech Talks <-- BOOM. There it is.
+A 10 Step Program For Great Tech Talks
 
-Eulogy quip? (most Americans would rather be in the coffin than deliveriny the eulogy)
-
-Ideas:
+# Content Ideas
 
 * Build in more time for questions
-
-Audience exercises -- advanced?
+* Eulogy quip? (most Americans would rather be in the coffin than deliveriny the eulogy)
+* Audience exercises -- advanced?
 
 1. Know Your Audience
     * technical level
@@ -53,11 +47,10 @@ Audience exercises -- advanced?
     * hallway track
     * sharing slides
     * video
-    
-Pitch Text Raw:
 
-Summary
--------
+* Description
+
+## Summary
 
 "How was the presentation?"
 "It was ... um, OK. Kind of interesting."
@@ -66,8 +59,7 @@ Don't let the above be your talk!  There's a lot more to doing a
 good talk than just knowing the code you're presenting.  Join this
 tutorial to learn how to transform "um, OK" to "great!"
 
-Description
------------
+## Description
 
 They wrote the code.  It's an interesting project.  They have plenty of
 slides.  So why is the audience all doing their email?
@@ -80,7 +72,6 @@ to become a better presenter is through training, science, and practice.
  In this audience-participation tutorial, veteran conference presenter
 Josh Berkus will go over his tech talk advice in detail in order to help
 you improve your presentation skills, including:
-
 
 If you have never attended a speaker training before, this tutorial will
 show you how much better your talks could be.  And if you have attended
