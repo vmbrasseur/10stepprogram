@@ -1,8 +1,4 @@
-# Title
-
-A 10 Step Program For Great Tech Talks
-
-* Description
+# A 10 Step Program For Great Tech Talks
 
 ## Summary
 
