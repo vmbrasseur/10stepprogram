@@ -15,3 +15,7 @@ Intended to be (mostly) a bibliography of the talk.
 * [Proposing a Compelling Fluent Talk](http://radar.oreilly.com/2013/09/proposing-a-compelling-fluent-talk.html) by Simon St. Laurent
 * [5 Ways to Leave Your Fears Behind and Learn to Love Public Speaking](https://www.themuse.com/advice/5-ways-to-leave-your-fears-behind-and-learn-to-love-public-speaking) by Kathryn Minshew
 * [How To Give a Great Ignite Talk](http://scottberkun.com/2009/how-to-give-a-great-ignite-talk/) by Scott Berkun
+* [Sample Proposals for O'Reilly Conferences](http://www.oreilly.com/conferences/sample_proposals.html) By O'Reilly Media
+* [10 Quick Tips for More Effective Conference Submissions and Presentations](http://www.youtube.com/watch?v=fJz4JJIchaY&feature=youtu.be) video by Matthew McCullough
+* [Women Who Code panel discussion on preparing for and speaking at technical conferences](http://www.youtube.com/watch?v=yE67bo7dmbY) (video)
+* [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) by Alistair Croll
