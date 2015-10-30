@@ -17,7 +17,7 @@ You have plenty of slides.  So why is the audience all doing their email?
 It doesn't have to be that way! Great presenters are made, not born.
 The way to become a better speaker is through training, science, and practice.
 In this audience-participation tutorial, veteran conference presenters
-Vicki Brasseur and Josh Berkus will tech you the ten steps to great tech talks:
+VM (Vicky) Brasseur and Josh Berkus will teach you the ten steps to great tech talks:
 
 1. Know Your Audience
 2. Have an Idea
