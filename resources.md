@@ -20,3 +20,4 @@ Intended to be (mostly) a bibliography of the talk.
 * [Women Who Code panel discussion on preparing for and speaking at technical conferences](http://www.youtube.com/watch?v=yE67bo7dmbY) (video)
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) by Alistair Croll
 * [The Secret Structure of Great Talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) by Nancy Duarte
+* [Helpful talk tips!](https://posts.postlight.com/helpful-talk-tips-5347ea7c2745#.l1avnxxqh) by Paul Ford
