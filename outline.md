@@ -13,12 +13,13 @@
         * social media
         * Define it yourself up front
         * Declare technical level, language, etc & audience will self-select
+    * EXERCISE: adapting presos for audiences
 2. Have an Idea
     * The elevator pitch
     * Know your topic
-    * something you know well
-    * something you care about
-    * Research
+        * something you know well
+        * something you care about
+        * Research
     * Develop (demos, apps)
     * Targeting it to the audience
     * Casual surveys (social media)
@@ -34,6 +35,7 @@
         * sock-puppeting
         * incomplete projects
         * bait & switch
+    * EXERCISE: topic sentence
 3. Tell a Story
     * Outlining
         *  Iterate
@@ -46,6 +48,7 @@
         * show & tell
     * Storycraft (peaks & troughs)
         * Nancy Duarte (JB: explain?)
+    * EXERCISE: pick a story
 4. Craft Your Presentation
     * No Slides
         * demo-only talks
@@ -93,6 +96,7 @@
         * use a timer
     * editing
     * flow (transitions, etc.)
+    * EXERCISE: rehearse/redeliver
 6. Get Ready to Speak
     * 7 days before
         * check the schedule
@@ -143,6 +147,10 @@
         * diction
         * emotion/color
         * "Um"
+    * EXERCISES
+        * floating
+        * stance
+        * diction/tongue-twisters
 8. Deal with Demo Failure
     * prepping demos (docker/vms/scripts/test runs)
     * terminal settings / setup
@@ -160,6 +168,7 @@
     * fake it till you make it
         * when a live demo is best
         * how to fake demos / fallbacks
+    * EXERCISE: fix a demo
 9. Interact with the Audience
     * Before the talk starts
         * quick polling
@@ -180,6 +189,7 @@
         * offending your audience
     * Interactive Exercises
         * rewarding audience members
+    * EXERCISE: Q&A
 10. Continue the Conversation
     * hallway track
         * take it out to the hall
