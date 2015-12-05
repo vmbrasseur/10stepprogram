@@ -1,96 +1,206 @@
 # Content Ideas
 
 1. Know Your Audience
-   * Some criteria to consider:
-     * technical level
-     * human language
-     * expected audience size
-   * How to learn this information
-     * Ask the conference organizers
-     * Define it yourself up front
-       * Declare technical level, language, etc & audience will self-select
+    * Some criteria to consider:
+        * technical level
+        * human language
+        * expected audience size
+        * style expectations
+        * culture
+        * current events in community
+    * How to learn this information
+        * Ask the conference organizers
+        * social media
+        * Define it yourself up front
+        * Declare technical level, language, etc & audience will self-select
 2. Have an Idea
+    * The elevator pitch
     * Know your topic
-      * Research
+    * something you know well
+    * something you care about
+    * Research
+    * Develop (demos, apps)
     * Targeting it to the audience
-      * Casual surveys (social media)
+    * Casual surveys (social media)
         * What does audience want to hear?
         * What questions would audience want answered?
         * What problems have audience had?
+    * What will the audience learn?
+    * What do you want them to do?
+    * Appropriate to timeslot
+    * the three basic timeslots
+    * different versions for different timeslots
+    * Don'ts
+        * sock-puppeting
+        * incomplete projects
+        * bait & switch
 3. Tell a Story
     * Outlining
-      * Iterate
+        *  Iterate
+    * The 6 basic presentation stories
+        * catalog, 
+        * end-to-end, 
+        * enlightenment, 
+        * quest, 
+        * theme & variations
+        * show & tell
     * Storycraft (peaks & troughs)
-      * Nancy Duarte
+        * Nancy Duarte (JB: explain?)
 4. Craft Your Presentation
+    * No Slides
+        * demo-only talks
+        * web tour talks
+    * slide software
+        * the Big Three (Four?)
+        * reveal.js and alternatives
     * slides
-      * Colors
-      * Typefaces
-      * Amount of words per slide
-      * Amount of slides per presentation
+        * Colors (light/dark, heraldry)
+        * Typefaces
+        * Amount of words per slide (one idea == one slide)
+        * Amount of slides per presentation
+        * animations/transactions (use sparingly)
+        * think inside the box
     * presenting code
-      * Colors
-      * Typefaces
-      * Number of lines per slide
-      * Showing a lot of code
-   * Have a section in reserve
-     * Bonus section if you have more time ("…one more thing")
-     * Easy to cut if you're running short on time
+        * Colors
+        * Typefaces
+        * Number of lines per slide
+        * Showing a lot of code
+            * collapse/zoom
+            * terminal/text editor
+            * don't present it all, link instead
+    * Special sections
+        * TOC
+        * About/Intro
+        * Recap
+        * More info page
+    * Have a section in reserve
+        * Bonus section if you have more time ("…one more thing")
+        * Easy to cut if you're running short on time
+        * Consider adding bonus sections for particular audiences
+    * accessory themes
+    * "you don't have to be a gigolo" (dealing with work-mandated themes)
 5. Practice Your Talk
     * This is NOT optional
+    * avoids "reading your slides"
     * How to practice
-      * Present to a mirror (or your pet)
-      * Present to your friends
-      * Present at a local meetup
-      * Record yourself!
+        * Present to a mirror (or your pet)
+        * Present to your friends
+        * Present at a local meetup
+        * Record yourself!
     * timing & pacing
+        * allow extra
+        * write down section times
+        * use a timer
     * editing
     * flow (transitions, etc.)
 6. Get Ready to Speak
-    * Day (or hours) before
-      * find the room
-      * check out the room
-        * rearrange if necessary/allowed
-      * check out the equipment (dongles, etc)
-        * lighting?
-        * A/V?
-        * Internet?
-        * Clicker?
-        * Power?
-        * Will laptop fit on the podium?
-        * If possible, do a complete setup & test
-      * prepare backup slides
-        * Local drive
-        * USB drive
-        * Cloud drive
-        * PDF
-    * Hour before
-      * eat, go pee, get water, etc.
-      * check your clothes, hair, battery power
-    * Just before
-      * show up early
-        * session before
-      * interact with the audience
-      * ALWAYS plug in your machine
+    * 7 days before
+        * check the schedule
+        * check for other talks
+        * check on special equipment
+        * double-check length, description
+    * 1 days before
+        * Check the room
+        * check the projectors
+        * prepare backup slides
+            * Local drive
+            * USB drive
+            * Cloud drive
+            * PDF
+        * do last run-through
+        * get some sleep
+        * check out the equipment (dongles, etc)
+            * lighting?
+            * A/V?
+            * Internet?
+            * Clicker?
+            * Power?
+            * Will laptop fit on the podium?
+            * If possible, do a complete setup & test
+    * 1 hour before
+        * set up demos
+        * shut down all other stuff on laptop
+        * check clothes/hair
+    * 20 minutes before
+        * go to the bathroom
+        * go to the room (watch the prev. preso in room)
+    * 10 minutes
+        * turn off phone
+        * empty pockets
+        * ALWAYS plug in your machine
 7. Present Yourself
     * eye contact
-      * A must
-      * Not only your friends or those people in the first 2 rows
+        * A must 
+        * "Floating": Not only your friends or those people in the first 2 rows
+        * avoid staring
     * body language
-      * expansive shows more confidence
+        * expansive shows more confidence (open/closed stance)
+        * get up and move around!
+        * avoiding bad habits (flapping, hunching, hands in pockets)
     * voice
-      * Deeper voice better
+        * Deeper voice better (JB: how does this work?)
+        * projection
+        * diction
+        * emotion/color
+        * "Um"
 8. Deal with Demo Failure
-    * prepping demos
-    * fallbacks
-    * faking demos
-      * Takes more time but usually more safe
+    * prepping demos (docker/vms/scripts/test runs)
+    * terminal settings / setup
+        * text size / colors
+        * have your windows set up
+        * command history
+        * virtual screens
+        * keep text in top half of screen
+        * multiple desktops
+        * embedded terminal
+    * failure
+        * why demos fail
+        * fallbacks
+        * dealing with the audience
+    * fake it till you make it
+        * when a live demo is best
+        * how to fake demos / fallbacks
 9. Interact with the Audience
-    * Dealing with that guy in the third row (general audience interaction stuff)
-    * jesus in the audience
-    * repeating the question
-    * Ask for questioner's name
+    * Before the talk starts
+        * quick polling
+        * announcements
+        * pre-Q&A
+    * Asking for a response
+    * Jokes
+        * good but hard to do right
+    * Basic Q&A
+        * determining question periods
+        * Picking audience members
+        * repeating the question
+        * Ask for questioner's name
+    * Audience problems
+        * Don't know the answer
+        * Dealing with that guy in the third row
+        * jesus in the audience
+        * offending your audience
+    * Interactive Exercises
+        * rewarding audience members
 10. Continue the Conversation
     * hallway track
+        * take it out to the hall
+        * BOFs/follow up
+        * Business cards!
     * sharing slides
+        * slideshare
+        * personal page
+        * speaker notes 
+        * licensing!
+        * sharing additional code
+    * curating slides/talks
+        * github/whatever
+        * version your talks
+        * revise for each conference
+    * getting feedback
+        * conference systems
+        * soliciting on your own
+        * how to use feedback
+            * grains of salt
+            * improving your talk
     * video/audio
+        * making videos
+        * sharing video
