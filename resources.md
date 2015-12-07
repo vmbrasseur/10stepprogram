@@ -22,3 +22,4 @@ Intended to be (mostly) a bibliography of the talk.
 * [The Secret Structure of Great Talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) by Nancy Duarte
 * [Helpful talk tips!](https://posts.postlight.com/helpful-talk-tips-5347ea7c2745#.l1avnxxqh) by Paul Ford
 * [3 Steps to Better Presentation Visuals](https://hbr.org/video/4642346287001/3-steps-to-better-presentation-visuals) by Harvard Business Review
+* [Presentation Zen](http://www.presentationzen.com/) by Garr Reynolds
