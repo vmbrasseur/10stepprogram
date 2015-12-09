@@ -196,7 +196,7 @@
     * fake it till you make it
         * when a live demo is best
         * how to fake demos / fallbacks
-    * [EXERCISE: fix a demo](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/fixing_a_demo.md) # XXX Most talks don't have a demo. Will this exercise be uncomfortable for many who wouldn't include a demo? JMB: I'm in favor of encouraging demos
+    * [EXERCISE: fix a demo](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/fixing_a_demo.md) # XXX Most talks don't have a demo. Will this exercise be uncomfortable for many who wouldn't include a demo? JMB: I'm in favor of encouraging demos; VMB: Ack.
 9. Interact with the Audience
     * Before the talk starts
         * quick polling
@@ -241,7 +241,11 @@
     * getting feedback
         * conference systems
         * soliciting on your own
-            * XXX A friend an online service for this; getting the name/URL (JMB: What?)
+            * Online services
+                * [Joind.in](http://joind.in/)
+                * Google Forms
+                * SurveyMonkey
+                * etc.
         * how to use feedback
             * grains of salt
             * improving your talk
