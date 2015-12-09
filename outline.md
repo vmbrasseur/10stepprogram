@@ -21,7 +21,7 @@
         * something you know well (or will by the time you present)
         * something you care about
         * Research
-    * Develop (demos, apps)  # XXX: What does this mean?
+        * Develop the tech (demos, apps)
     * Targeting it to the audience
         * Reference "Know Your Audience" section
     * Casual surveys (social media)
@@ -30,7 +30,7 @@
         * What problems have audience had?
     * What will the audience learn?
         * Take-aways: specific & actionable
-    * What do you want them to do?  # XXX What does this mean?
+        * What do you want them to do?
     * Appropriate to timeslot
     * The three basic timeslots
         * 20 minutes
@@ -80,7 +80,7 @@
         * Amount of words per slide (one idea == one slide)
         * Amount of slides per presentation
         * animations/transitions (use sparingly)
-        * think inside the box # XXX I think I know what you mean but am not 100% sure
+        * think inside the box (text/picture placement)
         * Twitter/IRC/Slack contact on each slide
             * Increases publicity & public discussion
     * Presenting code
@@ -101,7 +101,7 @@
         * Bonus section if you have more time ("…one more thing")
         * Easy to cut if you're running short on time
         * Consider adding bonus sections for particular audiences
-    * accessory themes # XXX Huh?
+    * accessory themes (like cats, pirates, racecars, etc.)
     * "you don't have to be a gigolo" (dealing with work-mandated themes)
 5. Practice Your Talk
     * This is NOT optional
@@ -196,7 +196,7 @@
     * fake it till you make it
         * when a live demo is best
         * how to fake demos / fallbacks
-    * [EXERCISE: fix a demo](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/fixing_a_demo.md) # XXX Most talks don't have a demo. Will this exercise be uncomfortable for many who wouldn't include a demo?
+    * [EXERCISE: fix a demo](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/fixing_a_demo.md) # XXX Most talks don't have a demo. Will this exercise be uncomfortable for many who wouldn't include a demo? JMB: I'm in favor of encouraging demos
 9. Interact with the Audience
     * Before the talk starts
         * quick polling
@@ -241,7 +241,7 @@
     * getting feedback
         * conference systems
         * soliciting on your own
-            * XXX A friend an online service for this; getting the name/URL
+            * XXX A friend an online service for this; getting the name/URL (JMB: What?)
         * how to use feedback
             * grains of salt
             * improving your talk
