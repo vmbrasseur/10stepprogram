@@ -175,6 +175,7 @@
         * diction
         * emotion/color
         * "Um"
+    * Never apologize for being an inexperienced speaker
     * [EXERCISES](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/presenting_yourself.md)
         * floating
         * stance
@@ -196,7 +197,7 @@
     * fake it till you make it
         * when a live demo is best
         * how to fake demos / fallbacks
-    * [EXERCISE: fix a demo](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/fixing_a_demo.md) # XXX Most talks don't have a demo. Will this exercise be uncomfortable for many who wouldn't include a demo? JMB: I'm in favor of encouraging demos; VMB: Ack.
+    * [EXERCISE: fix a demo](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/fixing_a_demo.md) 
 9. Interact with the Audience
     * Before the talk starts
         * quick polling
