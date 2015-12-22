@@ -27,6 +27,7 @@ Some ideas for the 10 tips:
   * Post full day's schedule in a high-traffic area
   * Have the known social events on the official schedule along w/the other sessions
   * Daily morning "Here's what's happening today" mailings
+  * indicate clearly which meals are provided, if any
 1. Make sure the content suits the expected audience
   * Provide guidance to speakers in advance
   * Expected audience profile
@@ -39,7 +40,6 @@ Some ideas for the 10 tips:
     * ratings site/app should work under poor wifi conditions
     * should be just a star rating plus comments (comments required)
     * speakers should get to see anonymous feedback
-1. Don't require slides in advance (I mean, really, WTF; I ignore this crap)
 1. Provide a more accessible environment
   * Walk/roll lanes
   * Ample & free water/coffee/tea
