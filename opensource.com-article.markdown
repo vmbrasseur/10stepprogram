@@ -46,6 +46,8 @@ Some ideas for the 10 tips:
   * Have social/evening events which don't require/involve drinking
   * If there are networking events, make sure they're not so loud people can't network without shouting
 1. Provide job boards and/or a job fair (BoF)
+  * also, BOF space/meeting board for other groups (board, wiki)
+  * make the conference a good meeting space for groups
 1. Provide a chat/communication mechanism (hashtag, IRC, Slack, etc.)
   * Communicate this to all attendees so they can coordinate their own meetups
 1. Daily morning "Here's what's happening today" mailings
