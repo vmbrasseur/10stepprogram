@@ -33,4 +33,5 @@ Some ideas for the 10 tips:
 * Daily morning "Here's what's happening today" mailings
 * Ample & free water/coffee/tea
 * For food/bev, provide vegan options on par with omnivore, non-alcoholic options on par with alcoholic
+* Have social/evening events which do require involve drinking
 * If there are networking events, make sure they're not so loud people can't network without shouting
