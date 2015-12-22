@@ -37,6 +37,7 @@ Some ideas for the 10 tips:
   * Level of ability/experience
   * Technical vs "soft"
   * marketing vs. technical
+  * don't have sponsored slots, of if you have to have them, have them clearly marked
 1. Self-directed coordination
   * Provide a chat/communication mechanism (hashtag, IRC, Slack, etc.)
   * Communicate this to all attendees so they can coordinate their own meetups
