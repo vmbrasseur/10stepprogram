@@ -17,6 +17,7 @@ Some ideas for the 10 tips:
   * If many, let people know which one is canonical
 1. Post the schedule for the day at each room
 1. Post full day's schedule in a high-traffic area
+1. Have the known social events on the official schedule along w/the other sessions
 1. Make sure the content suits the expected audience
 1. Provide guidance to speakers in advance
   * Expected audience profile
