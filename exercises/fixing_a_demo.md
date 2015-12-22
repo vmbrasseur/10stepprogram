@@ -1,4 +1,4 @@
 EXERCISE: Fixing a demo
 =====
 
-TBD
+We've decided not to do this exercise.
