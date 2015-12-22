@@ -57,8 +57,8 @@
                 * Sticky notes
                 * Note cards
         * Iterate
-    * The 6 basic presentation stories # XXX [citations needed]
-        * catalog
+    * The 6 basic presentation stories
+        * catalog 
         * end-to-end
         * enlightenment
         * quest
