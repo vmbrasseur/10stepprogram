@@ -13,7 +13,6 @@
         * social media
         * Define it yourself up front
         * Declare technical level, language, etc & audience will self-select
-    * [EXERCISE: adapting presos for audiences](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/adapting_content_to_audience.md)
 2. Have an Idea
     * The elevator pitch
         * CFP
@@ -32,7 +31,8 @@
         * Take-aways: specific & actionable
         * What do you want them to do?
     * Appropriate to timeslot
-    * The three basic timeslots
+    * The four basic timeslots
+        * 5 minutes
         * 20 minutes
         * 40 minutes
         * Tutorial
@@ -46,7 +46,6 @@
         * Sales & Marketing
             * Expo floor is for the pitch
             * Session floor is for learning
-    * [EXERCISE: topic sentence](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/writing_a_topic_sentence.md)
 3. Tell a Story
     * Outlining
         * Methods
@@ -67,7 +66,12 @@
         * post-mortem
     * Storycraft (peaks & troughs)
         * [Nancy Duarte](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks)
-    * [EXERCISE: pick a story type](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/picking_a_story_type.md)
+        
+> **EXERCISES**
+> * [EXERCISE: adapting presos for audiences](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/adapting_content_to_audience.md)
+> * [EXERCISE: topic sentence](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/writing_a_topic_sentence.md)
+> * [EXERCISE: pick a story type](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/picking_a_story_type.md)
+
 4. Craft Your Presentation
     * No Slides
         * demo-only talks
@@ -121,7 +125,6 @@
         * use a clicker
     * editing
     * flow (transitions, etc.)
-    * [EXERCISE: rehearse/redeliver](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/rehearse_and_redeliver.md)
 6. Get Ready to Speak
     * 7 days before
         * check the schedule
@@ -198,7 +201,6 @@
     * fake it till you make it
         * when a live demo is best
         * how to fake demos / fallbacks
-    * [EXERCISE: fix a demo](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/fixing_a_demo.md) 
 9. Interact with the Audience
     * Before the talk starts
         * quick polling
@@ -217,6 +219,7 @@
         * Dealing with that guy in the third row
         * jesus in the audience
         * offending your audience
+        * I have a story (comments not questions)
     * Interactive Exercises
         * rewarding audience members
     * [EXERCISE: Q&A](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/q_and_a.md)
