@@ -14,29 +14,29 @@ Some ideas for the 10 tips:
   * Where to ask questions
   * Answer those questions promptly, no matter how they got to you
   * let speakers know whom to contact about a problem (speaker coordinator)
+  * Provided A/V, connectors
+  * Whether it'll be recorded and, if so, when/where it may be available & what the speakers' reposting rights are
 1. Conference app
   * Usable
   * Up to date (schedule)
   * Not burdened with ads
 1. Schedule up to date
   * If many, let people know which one is canonical
-  * schedule should include social/satellite events you know about
   * Post the schedule for the day at each room
   * Post full day's schedule in a high-traffic area
-1. Have the known social events on the official schedule along w/the other sessions
+  * Have the known social events on the official schedule along w/the other sessions
 1. Make sure the content suits the expected audience
-1. Provide guidance to speakers in advance
+  * Provide guidance to speakers in advance
   * Expected audience profile
   * Expected audience size
-  * Provided A/V, connectors
-  * Whether it'll be recorded and, if so, when/where it may be available & what the speakers' reposting rights are
-    * marketing vs. technical
+  * marketing vs. technical
 1. Provide a talk feedback/rating mechanism
     * plug it in keynotes
     * have it clearly linked on the website
     * tell speakers/room monitors about it and to plug it
     * ratings site/app should work under poor wifi conditions
     * should be just a star rating plus comments (comments required)
+    * speakers should get to see anonymous feedback
 1. Don't require slides in advance (I mean, really, WTF; I ignore this crap)
 1. Provide a more accessible environment
   * Walk/roll lanes
