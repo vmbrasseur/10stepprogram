@@ -21,9 +21,7 @@ Some ideas for the 10 tips:
   * Plans for each day
   * Where to ask questions
   * Answer those questions promptly, no matter how they got to you
-  * let speakers know whom to contact about a problem (speaker coordinator)
-  * Provided A/V, connectors
-  * Whether it'll be recorded and, if so, when/where it may be available & what the speakers' reposting rights are
+  * Whether it'll be recorded and, if so, when/where it may be available
 1. Conference app
   * Usable
   * Up to date (schedule)
@@ -36,17 +34,9 @@ Some ideas for the 10 tips:
   * Daily morning "Here's what's happening today" mailings
   * indicate clearly which meals are provided, if any
 1. Make sure the content suits the expected audience
-  * Provide guidance to speakers in advance
-  * Expected audience profile
-  * Expected audience size
+  * Level of ability/experience
+  * Technical vs "soft"
   * marketing vs. technical
-1. Provide a talk feedback/rating mechanism
-    * plug it in keynotes
-    * have it clearly linked on the website
-    * tell speakers/room monitors about it and to plug it
-    * ratings site/app should work under poor wifi conditions
-    * should be just a star rating plus comments (comments required)
-    * speakers should get to see anonymous feedback
 1. Provide job boards and/or a job fair (BoF)
   * also, BOF space/meeting board for other groups (board, wiki)
   * make the conference a good meeting space for groups
@@ -60,3 +50,4 @@ Some ideas for the 10 tips:
   * do not require it for attending the conference
   * keep trying to make it work
   * have a wifi volunteer/coordinator
+  * don't expect hotel WIFI to be adequate to a conference, get your own
