@@ -32,7 +32,8 @@
         * Take-aways: specific & actionable
         * What do you want them to do?
     * Appropriate to timeslot
-    * The three basic timeslots
+    * The four basic timeslots
+        * 5 minutes
         * 20 minutes
         * 40 minutes
         * Tutorial
