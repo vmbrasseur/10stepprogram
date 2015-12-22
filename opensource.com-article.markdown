@@ -6,6 +6,7 @@ Some ideas for the 10 tips:
 1. Delegate to & train staff
     * Volunteer coordinator
     * Speaker coordinator
+    * A/V wrangler
     * Room monitors
 1. Fix your damn badges (<-- VMB has a forthcoming blog post on this subject)
 1. Clear communication
@@ -40,11 +41,16 @@ Some ideas for the 10 tips:
 1. Don't require slides in advance (I mean, really, WTF; I ignore this crap)
 1. Provide a more accessible environment
   * Walk/roll lanes
+  * Ample & free water/coffee/tea
+  * For food/bev, provide vegan options on par with omnivore, non-alcoholic options on par with alcoholic
+  * Have social/evening events which don't require/involve drinking
+  * If there are networking events, make sure they're not so loud people can't network without shouting
 1. Provide job boards and/or a job fair (BoF)
 1. Provide a chat/communication mechanism (hashtag, IRC, Slack, etc.)
   * Communicate this to all attendees so they can coordinate their own meetups
 1. Daily morning "Here's what's happening today" mailings
-1. Ample & free water/coffee/tea
-1. For food/bev, provide vegan options on par with omnivore, non-alcoholic options on par with alcoholic
-1. Have social/evening events which don't require/involve drinking
-1. If there are networking events, make sure they're not so loud people can't network without shouting
+1. Wifi is a bitch
+  * hard to make work
+  * do not require it for attending the conference
+  * keep trying to make it work
+  * have a wifi volunteer/coordinator
