@@ -206,6 +206,7 @@
         * quick polling
         * announcements
         * pre-Q&A
+        * get people to move to the front of the room
     * Asking for a response
     * Jokes
         * good but hard to do right
