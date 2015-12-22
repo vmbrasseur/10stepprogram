@@ -1,4 +1,4 @@
 EXERCISE: Rehearse and Redeliver
 =====
 
-TBD
+We've decided not to do this exercise.
