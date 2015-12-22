@@ -13,7 +13,6 @@
         * social media
         * Define it yourself up front
         * Declare technical level, language, etc & audience will self-select
-    * [EXERCISE: adapting presos for audiences](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/adapting_content_to_audience.md)
 2. Have an Idea
     * The elevator pitch
         * CFP
@@ -47,7 +46,6 @@
         * Sales & Marketing
             * Expo floor is for the pitch
             * Session floor is for learning
-    * [EXERCISE: topic sentence](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/writing_a_topic_sentence.md)
 3. Tell a Story
     * Outlining
         * Methods
@@ -68,7 +66,12 @@
         * post-mortem
     * Storycraft (peaks & troughs)
         * [Nancy Duarte](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks)
-    * [EXERCISE: pick a story type](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/picking_a_story_type.md)
+        
+> **EXERCISES**
+> * [EXERCISE: adapting presos for audiences](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/adapting_content_to_audience.md)
+> * [EXERCISE: topic sentence](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/writing_a_topic_sentence.md)
+> * [EXERCISE: pick a story type](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/picking_a_story_type.md)
+
 4. Craft Your Presentation
     * No Slides
         * demo-only talks
