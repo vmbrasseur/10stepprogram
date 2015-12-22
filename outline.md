@@ -197,7 +197,6 @@
     * fake it till you make it
         * when a live demo is best
         * how to fake demos / fallbacks
-    * [EXERCISE: fix a demo](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/fixing_a_demo.md) 
 9. Interact with the Audience
     * Before the talk starts
         * quick polling
