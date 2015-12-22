@@ -121,7 +121,6 @@
         * use a clicker
     * editing
     * flow (transitions, etc.)
-    * [EXERCISE: rehearse/redeliver](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/rehearse_and_redeliver.md)
 6. Get Ready to Speak
     * 7 days before
         * check the schedule
