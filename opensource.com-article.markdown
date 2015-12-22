@@ -37,15 +37,15 @@ Some ideas for the 10 tips:
   * Level of ability/experience
   * Technical vs "soft"
   * marketing vs. technical
-1. Provide job boards and/or a job fair (BoF)
-  * also, BOF space/meeting board for other groups (board, wiki)
-  * make the conference a good meeting space for groups
-1. Social media
+1. Self-directed coordination
   * Provide a chat/communication mechanism (hashtag, IRC, Slack, etc.)
   * Communicate this to all attendees so they can coordinate their own meetups
   * FB/twitter/blog conference promotion
   * coordinate with speakers to promote conference in blogs
-1. Wifi is a bitch
+  * Provide job boards and/or a job fair (BoF)
+  * also, BOF space/meeting board for other groups (board, wiki)
+  * make the conference a good meeting space for groups
+1. Wifi: Here there be dragons
   * hard to make work
   * do not require it for attending the conference
   * keep trying to make it work
