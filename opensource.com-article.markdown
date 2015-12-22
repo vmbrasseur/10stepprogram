@@ -26,6 +26,7 @@ Some ideas for the 10 tips:
   * Post the schedule for the day at each room
   * Post full day's schedule in a high-traffic area
   * Have the known social events on the official schedule along w/the other sessions
+  * Daily morning "Here's what's happening today" mailings
 1. Make sure the content suits the expected audience
   * Provide guidance to speakers in advance
   * Expected audience profile
@@ -50,7 +51,6 @@ Some ideas for the 10 tips:
   * make the conference a good meeting space for groups
 1. Provide a chat/communication mechanism (hashtag, IRC, Slack, etc.)
   * Communicate this to all attendees so they can coordinate their own meetups
-1. Daily morning "Here's what's happening today" mailings
 1. Wifi is a bitch
   * hard to make work
   * do not require it for attending the conference
