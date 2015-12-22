@@ -219,6 +219,7 @@
         * Dealing with that guy in the third row
         * jesus in the audience
         * offending your audience
+        * I have a story (comments not questions)
     * Interactive Exercises
         * rewarding audience members
     * [EXERCISE: Q&A](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/q_and_a.md)
