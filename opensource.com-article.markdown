@@ -46,11 +46,15 @@ Some ideas for the 10 tips:
   * For food/bev, provide vegan options on par with omnivore, non-alcoholic options on par with alcoholic
   * Have social/evening events which don't require/involve drinking
   * If there are networking events, make sure they're not so loud people can't network without shouting
+  * Avoid over-18 or over-21 venues if possible
 1. Provide job boards and/or a job fair (BoF)
   * also, BOF space/meeting board for other groups (board, wiki)
   * make the conference a good meeting space for groups
-1. Provide a chat/communication mechanism (hashtag, IRC, Slack, etc.)
+1. Social media
+  * Provide a chat/communication mechanism (hashtag, IRC, Slack, etc.)
   * Communicate this to all attendees so they can coordinate their own meetups
+  * FB/twitter/blog conference promotion
+  * coordinate with speakers to promote conference in blogs
 1. Wifi is a bitch
   * hard to make work
   * do not require it for attending the conference
