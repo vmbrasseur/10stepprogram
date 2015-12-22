@@ -58,12 +58,13 @@
                 * Note cards
         * Iterate
     * The 6 basic presentation stories # XXX [citations needed]
-        * catalog 
+        * catalog
         * end-to-end
         * enlightenment
         * quest
         * theme & variations
         * show & tell
+        * post-mortem
     * Storycraft (peaks & troughs)
         * [Nancy Duarte](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks)
     * [EXERCISE: pick a story type](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/picking_a_story_type.md)
