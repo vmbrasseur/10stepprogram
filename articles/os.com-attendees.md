@@ -1,5 +1,3 @@
-**Mission:** Write an article for opensource.com on the topic of "10 tips to improve your conference". Due before **2015-12-28**. Length: beginning to end.
-
 The 2016 open source conference season is fast approaching, kicking off with SCALE 14x in January, followed very rapidly by FOSDEM and linux.conf.au. While these three are venerable conferences run by organizers with years of experience, most conferences aren’t so lucky and could use a little help in providing the best tech conference they can.
 
 Our SCALE 14x talk is focused on helping speakers provide a more positive experience for their audience. But there are many different facets of conference organizing which could use improvements, each facet with its own audience. This article focuses on just one of those: How conference organizers can make the event more positive for the attendees. Future articles will detail how organizers can improve the experiences of speakers and of sponsors, two very important and distinct audiences.
