@@ -104,7 +104,7 @@ There are resources on the internet about how to write a code of conduct, how to
 
 [0] Some resources for code of conduct development and implementation:
 
-Codes of Conduct 101 + FAQ
-Conference anti-harassment/Policy resources
-Online Abuse Prevention Initiative
-Code of Conduct and Conference Inclusion consulting
+* [Codes of Conduct 101 + FAQ](http://www.ashedryden.com/blog/codes-of-conduct-101-faq)
+* [Conference anti-harassment/Policy resources](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy_resources)
+* [Online Abuse Prevention Initiative](http://onlineabuseprevention.org/)
+* [Code of Conduct and Conference Inclusion consulting](http://www.ashedryden.com/consulting#conferences)
