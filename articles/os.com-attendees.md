@@ -22,7 +22,8 @@ We’ve come up with a list of ten tips for improving the conference experience 
 
    These are just a few of the many ways you can make your event more accessible to more people. Additional ideas such as onsite child care, nursing rooms, or subsidized transit or parking passes can also be very helpful. Consider all of your attendees and what would be required to make them feel more welcome and comfortable in the event environment.  
 
-3. Delegate to & train staff
+3. **Delegate to & train staff**
+
    Putting on a conference or event is a lot of work. At any moment there are innumerable details which could go wrong and ruin the experience for your attendees. One of the largest mistakes which organizers make is trying to handle all of these details themselves, becoming over-taxed bottlenecks. This inevitably leads to errors which could be prevented through delegation to trusted lieutenants. 
 
    Some of the roles which are helpful for most events to fill are volunteer coordinator to assist the volunteers in their duties and make sure all of the bases are covered, speaker coordinator to make sure the speakers need what they need to provide conference content (and to make sure they get to the correct room at the correct time), A/V wrangler to field any questions and problems with the audio/video system and liaise with any contracted A/V staff, and room monitors to assist with seating, moderation, and keeping order during sessions.
@@ -30,6 +31,7 @@ We’ve come up with a list of ten tips for improving the conference experience 
    These lieutenants will only be as effective as their training, so it’s vital that they be provided with the information and skills they need in order to perform well in these roles. Simply throwing them into the mix and hoping they’ll pick it up as they go is a recipe for failure. Taking a little bit of time in advance to provide the necessary training will pay off in huge time savings during the event itself as well as in more satisfied attendees.
 
 4. **Fix your damn badges**
+
    When asked, it turns out that attendees have a lot of very strong opinions of conference badges and the majority of them are not positive. Badges serve multiple purposes, but the single most important one is allowing attendees to identify each other. Yet, despite that, very few conference badges do a very good job of performing this one deceptively simple duty. When designing badges for your event, make sure they meet these criteria at a minimum:
 
    * If hung from a single point on the lanyard, make sure the name and other information is printed on both sides of the badge. These single-point hangers flip over very easily, hiding all identifying information
