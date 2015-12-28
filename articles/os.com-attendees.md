@@ -2,26 +2,7 @@ The 2016 open source conference season is fast approaching, kicking off with SCA
 
 Our [SCALE 14x talk](https://www.socallinuxexpo.org/scale/14x/presentations/scale-speaker-training-seminar) is focused on helping speakers provide a more positive experience for their audience, but there are many different facets of conference organizing which could use improvements, each facet with its own audience. This article focuses on just one of those: How conference organizers can make the event more positive for the attendees. Future articles will detail how organizers can improve the experiences of speakers and of sponsors, two very important and distinct audiences.
 
-As frequent technical conference presenters with decades of experience between us, we’ve seen just about every way a conference can go wrong (and right). We’ve come up with a list of ten tips for improving the conference experience of your attendees. Most require some thought but not a lot of effort, leading to a really good return on your investment.  
-
-1. **Delegate to & train staff**
-
-    Putting on a conference or event is a lot of work with a lot of details. One of the largest mistakes which organizers make is trying to handle all of these details themselves, becoming over-taxed bottlenecks. This inevitably leads to errors which could be prevented through delegation to trusted lieutenants. 
-
-    Some of the roles which are helpful for most events to fill are volunteer coordinator to assist the volunteers in their duties and make sure all of the bases are covered, speaker coordinator to make sure the speakers have what they need to provide conference content (and to make sure they get to the correct room at the correct time), A/V wrangler to field any questions and problems with the audio/video system and liaise with any contracted A/V staff, and room monitors to assist with seating, moderation, and keeping order during sessions.
-
-    These lieutenants will only be as effective as their training, so you must provide the information and skills they need in order to perform well in these roles. Simply throwing them into the mix and hoping they’ll pick it up as they go is a recipe for failure. Taking a little bit of time in advance to provide the necessary training will pay off in huge time savings during the event itself as well as in more satisfied attendees.  While larger, better established conferences can and should offer formal training, for small conferences a little written documentation on and discussion of the duties of each volunteer is a good place to start.
-
-1. **Fix your damn badges**
-
-    When asked, it turns out that attendees have a lot of very strong opinions onthe subject of conference badges and the majority of those opinions are not positive. Badges serve multiple purposes, but the single most important one is allowing attendees to identify each other. Yet, despite that, very few conference badges do a very good job of performing this one deceptively simple duty. When designing badges for your event, make sure they meet these criteria at a minimum:
-
-    * If hung from a single point on the lanyard, print the name and other information on both sides of the badge. These single-point hangers flip over very easily, hiding all identifying information.
-    * Minimize the logo and conference branding. The important information on the badge is the attendee’s name, not the conference name and logo. Everyone at the conference already knows where they are, after all.
-    * While an attendee’s self-reported name should be most prominent on the badge, the second most prominent piece of information should be the identifier by which they’re known in the community. This could be Twitter ID, IRC nick, GitHub account name, or whatever makes the most sense for this group and person.
-    * Print all information large enough that other attendees do not have to squint or lean over to read it. Also, print it in a very high contrast color scheme, ideally black on white.
-    * Make sure default badge placement (determined by length of lanyard, etc.) does not end up with the badge in a location which is uncomfortable for people. For instance, most women do not want people staring at their chest all day because that’s where the badge is.
-    * Verify that the badge program/printer being used can handle Unicode and that you are able to support non-European naming schemes.
+As frequent technical conference presenters with decades of experience between us, we’ve seen just about every way a conference can go wrong (and right). We’ve come up with a list of ten tips for improving the conference experience of your attendees. Most require some thought but not a lot of effort, leading to a really good return on your investment.
 
 1. **Clear communication**
 
@@ -37,13 +18,48 @@ As frequent technical conference presenters with decades of experience between u
 
     Often you’ll find that there are some questions which will come up over and over again. This is not a new thing in technology and we long ago developed a way to handle it: Have a FAQ. Questions like, “will sessions be recorded and when/where will they be available?”, “is there parking at the venue?”, and “what’s the wifi password?” can all be addressed here and then linked to in communications to provide quick and easy answers.
 
-1. **Usable conference app**
+1. **Train and delegate to staff**
 
-    It’s become quite common for conferences to have a companion mobile app for creating and viewing personalized schedules. It’s unfortunately not common at all for these apps to be any good. Crashes are frequent. When they work, they’re usually dramatically lacking on the usability front, making it difficult to find and use the very information which they’re supposed to provide. Sometimes they’re burdened with advertisements or sponsor popups. Occasionally the schedule data they provide isn’t coming from the same source as the schedule on the website, so they don’t show the most current scheduling information.
+    Putting on a conference or event is a lot of work with a lot of details. One of the largest mistakes which organizers make is trying to handle all of these details themselves, becoming over-taxed bottlenecks. This inevitably leads to errors which could be prevented through delegation to trusted lieutenants. 
 
-    We in technology are intimately familiar with these problems in our own products, where we would never accept them, and yet we still allow these issues to negatively affect the experiences of our event attendees.
+    Some of the roles which are helpful for most events to fill are volunteer coordinator to assist the volunteers in their duties and make sure all of the bases are covered, speaker coordinator to make sure the speakers have what they need to provide conference content (and to make sure they get to the correct room at the correct time), A/V wrangler to field any questions and problems with the audio/video system and liaise with any contracted A/V staff, and room monitors to assist with seating, moderation, and keeping order during sessions.
 
-    Before contracting with a mobile app provider (or writing an app yourself), please make sure the end product will serve your attendees’ needs. Any app which does not will be met with derision, scorn, and frustration. If you must make a choice between how to spend time and money, remember that a good and responsive mobile site is preferable to a bad mobile app.
+    These lieutenants will only be as effective as their training, so you must provide the information and skills they need in order to perform well in these roles. Simply throwing them into the mix and hoping they’ll pick it up as they go is a recipe for failure. Taking a little bit of time in advance to provide the necessary training will pay off in huge time savings during the event itself as well as in more satisfied attendees.  While larger, better established conferences can and should offer formal training, for small conferences a little written documentation on and discussion of the duties of each volunteer is a good place to start.
+    
+1. **Have a code of conduct (and train staff on what that means)**
+
+    “Our conference has never had any reported problems. Our attendees are respectful adults. A code of conduct wouldn’t do anything.” All of these things may be true, and if so we hope that they remain so in the future, but the fact of the matter is that just about every woman and minority at your event will have a story about discrimination and uncomfortable experiences at conferences. Because it hasn’t been reported to you in the past is no excuse not to protect against it in the future and to ensure the continued positive experiences of ALL of your attendees. This is an insurance policy, a very public statement that the organizers value the entire community and will protect their rights to attend and learn without harassment.
+
+    Having a code of conduct is an important part of providing a welcoming environment for all attendees, but without training the staff how to handle reports of violations the code is a lot of empty words. It’s one thing to provide the appearance of fire safety by having smoke detectors and fire extinguishers. It’s an entirely different matter to provide actual security by having those tools charged and ready to go, and staff who know how to use them. Not only does training your staff help ensure smooth and respectful enforcement of the code of conduct, it also ensures that the staff themselves are prepared to deal with potentially awkward and difficult situations.
+    
+    There are resources on the internet about how to write a code of conduct, how to train your staff to uphold it, and how to communicate these things to your event attendees. There are even specialists who stand ready to help with the training. Avail yourself of these resources and you’ll soon have an event where everyone feels comfortable participating. [0]
+    
+1. **Make sure the content suits the expected audience**
+
+    Be aware of, or figure out, the makeup and preferences of your attendees and make sure that all session content is suitable to them as well as the theme of the event. No matter how excited you are about a particular session or keynote, if it’s not pitched to the audience you will get complaints and poor ratings.  Whether a talk is too basic, too advanced, too demographically narrow, or too far off-topic for the conference, it’s a problem (even if the speaker is famous).
+
+    A particular case of content mismatch is sponsored talks and other “corporate” presentations.  These are appropriate for some conferences, and not for others, and when attendees encounter them unexpectedly you will have a major source of public criticism and audience frustration.  In general, sponsored talks should be clearly marked as such in the program.  People will still go to them if the company, or its products, are interesting (and if they’re not, why are they at your conference?).
+
+    In many cases, your attendees will be very mixed or you won’t know enough about them in advance. Just make sure that the expected audience is marked in the program in several categories, not just skill level, but also by job and age groups. Encourage your speakers to include this sort of information in the descriptions.  This includes keynotes; nobody likes to get up at 7:45am to catch a keynote which is completely irrelevant to them.
+    
+1. **Provide a more accessible environment**
+
+    Accessibility is the secret sauce which makes your event more approachable to and usable by all of your attendees. When most people hear the word “accessible” they may think of having ramps, elevators, and reserved seating for people with non-standard mobility, but this is only the start of the things you can do to make your event more accessible for all attendees. In addition to ramps and elevators, consider marking walk/roll lanes on the floor, delineating traffic flow from hallway track and enabling improved travel between sessions, the expo hall, or other attractions and avoiding the crowd-weaving which is so common when getting from A to B. Training staff of the building layout can also help solve mobility problems quickly and efficiently by enabling them to find alternate routes for attendees.
+
+    Accessibility extends to many factors beyond just mobility. For instance, if your event includes food, be sure to provide vegan options on par with omnivore offerings. If alcohol is provided, don’t forget to have non-alcoholic alternatives. In fact, consider planning some social events which either don’t require or revolve around drinking. This is particularly important if your event welcomes or encourages attendance by those younger than the legal drinking age. Holding your social or networking events in venues which are over-18 or over-21 excludes these attendees whom you’ve worked to make welcome elsewhere at your event. As well, try to plan out your social and networking events so they provide the space and ability for people to network and have conversations without the need to shout over a DJ.
+
+    These are just a few of the many ways you can make your event more accessible to more people. Additional ideas such as onsite child care, nursing rooms, or subsidized transit or parking passes can also be very helpful. Consider all of your attendees and what would be required to make them feel more welcome and comfortable in the event environment. 
+
+1. **Fix your damn badges**
+
+    When asked, it turns out that attendees have a lot of very strong opinions onthe subject of conference badges and the majority of those opinions are not positive. Badges serve multiple purposes, but the single most important one is allowing attendees to identify each other. Yet, despite that, very few conference badges do a very good job of performing this one deceptively simple duty. When designing badges for your event, make sure they meet these criteria at a minimum:
+
+    * If hung from a single point on the lanyard, print the name and other information on both sides of the badge. These single-point hangers flip over very easily, hiding all identifying information.
+    * Minimize the logo and conference branding. The important information on the badge is the attendee’s name, not the conference name and logo. Everyone at the conference already knows where they are, after all.
+    * While an attendee’s self-reported name should be most prominent on the badge, the second most prominent piece of information should be the identifier by which they’re known in the community. This could be Twitter ID, IRC nick, GitHub account name, or whatever makes the most sense for this group and person.
+    * Print all information large enough that other attendees do not have to squint or lean over to read it. Also, print it in a very high contrast color scheme, ideally black on white.
+    * Make sure default badge placement (determined by length of lanyard, etc.) does not end up with the badge in a location which is uncomfortable for people. For instance, most women do not want people staring at their chest all day because that’s where the badge is.
+    * Verify that the badge program/printer being used can handle Unicode and that you are able to support non-European naming schemes.
 
 1. **Keep all schedules up to date and complete**
 
@@ -54,14 +70,14 @@ As frequent technical conference presenters with decades of experience between u
     Therefore it’s advisable to let attendees know which of the many schedules is canonical. If possible, it may be a good idea for this canonical schedule to be a large bulletin board posted in a high-traffic area of the event. Not only does this provide schedule availability even in times of low-/no-wifi, it also enables very quick schedule changes in the event that a speaker have an unexpected scheduling conflict. Regardless, let the attendees know which schedule is the final word.
 
     Beyond just the event sessions, all versions of the schedule should include information on whether meals are provided during breaks or whether they are on their own. As well, represent all known social events and Birds of a Feather sessions on the official calendar rather than forcing the attendees to search the event website or wiki. Many of the attendees are there not only to learn but also to conduct business meetings. Having all possible events represented on the schedules helps them get their jobs done with minimal stress.
+    
+1. **Usable conference app**
 
-1. **Make sure the content suits the expected audience**
+    It’s become quite common for conferences to have a companion mobile app for creating and viewing personalized schedules. It’s unfortunately not common at all for these apps to be any good. Crashes are frequent. When they work, they’re usually dramatically lacking on the usability front, making it difficult to find and use the very information which they’re supposed to provide. Sometimes they’re burdened with advertisements or sponsor popups. Occasionally the schedule data they provide isn’t coming from the same source as the schedule on the website, so they don’t show the most current scheduling information.
 
-    Be aware of, or figure out, the makeup and preferences of your attendees and make sure that all session content is suitable to them as well as the theme of the event. No matter how excited you are about a particular session or keynote, if it’s not pitched to the audience you will get complaints and poor ratings.  Whether a talk is too basic, too advanced, too demographically narrow, or too far off-topic for the conference, it’s a problem (even if the speaker is famous).
+    We in technology are intimately familiar with these problems in our own products, where we would never accept them, and yet we still allow these issues to negatively affect the experiences of our event attendees.
 
-    A particular case of content mismatch is sponsored talks and other “corporate” presentations.  These are appropriate for some conferences, and not for others, and when attendees encounter them unexpectedly you will have a major source of public criticism and audience frustration.  In general, sponsored talks should be clearly marked as such in the program.  People will still go to them if the company, or its products, are interesting (and if they’re not, why are they at your conference?).
-
-   In many cases, your attendees will be very mixed or you won’t know enough about them in advance. Just make sure that the expected audience is marked in the program in several categories, not just skill level, but also by job and age groups. Encourage your speakers to include this sort of information in the descriptions.  This includes keynotes; nobody likes to get up at 7:45am to catch a keynote which is completely irrelevant to them.
+    Before contracting with a mobile app provider (or writing an app yourself), please make sure the end product will serve your attendees’ needs. Any app which does not will be met with derision, scorn, and frustration. If you must make a choice between how to spend time and money, remember that a good and responsive mobile site is preferable to a bad mobile app.
 
 1. **Enable self-directed coordination**
 
@@ -82,22 +98,6 @@ As frequent technical conference presenters with decades of experience between u
     Also, if your event is held in a hotel, please be sure to contract elsewhere to provide your own wifi. Hotel wifi is rarely adequate to meet the needs of even a non-technical audience. For a room full of online-natives? That hotel wifi will wedge and crash and your attendees will be very disappointed and frustrated.
 
     One thing you may wish to do is to appoint a wifi coordinator for the event. This is someone knowledgeable not only about the particulars of the event’s wifi setup, but also about networking in general. Most importantly, as this person will be the primary contact point should there be problems, they should be prepared for and capable of communicating both with groups and with disgruntled individuals. It’s a thankless job, but providing a contact for attendees to report networking problems can help to win back a lot of goodwill otherwise lost when the network goes down.
-
-1. **Have a code of conduct (and train staff on what that means)**
-
-    “Our conference has never had any reported problems. Our attendees are respectful adults. A code of conduct wouldn’t do anything.” All of these things may be true, and if so we hope that they remain so in the future, but the fact of the matter is that just about every woman and minority at your event will have a story about discrimination and uncomfortable experiences at conferences. Because it hasn’t been reported to you in the past is no excuse not to protect against it in the future and to ensure the continued positive experiences of ALL of your attendees. This is an insurance policy, a very public statement that the organizers value the entire community and will protect their rights to attend and learn without harassment.
-
-    Having a code of conduct is an important part of providing a welcoming environment for all attendees, but without training the staff how to handle reports of violations the code is a lot of empty words. It’s one thing to provide the appearance of fire safety by having smoke detectors and fire extinguishers. It’s an entirely different matter to provide actual security by having those tools charged and ready to go, and staff who know how to use them. Not only does training your staff help ensure smooth and respectful enforcement of the code of conduct, it also ensures that the staff themselves are prepared to deal with potentially awkward and difficult situations.
-    
-There are resources on the internet about how to write a code of conduct, how to train your staff to uphold it, and how to communicate these things to your event attendees. There are even specialists who stand ready to help with the training. Avail yourself of these resources and you’ll soon have an event where everyone feels comfortable participating. [0]
-
-1. **Provide a more accessible environment**
-
-    Accessibility is the secret sauce which makes your event more approachable to and usable by all of your attendees. When most people hear the word “accessible” they may think of having ramps, elevators, and reserved seating for people with non-standard mobility, but this is only the start of the things you can do to make your event more accessible for all attendees. In addition to ramps and elevators, consider marking walk/roll lanes on the floor, delineating traffic flow from hallway track and enabling improved travel between sessions, the expo hall, or other attractions and avoiding the crowd-weaving which is so common when getting from A to B. Training staff of the building layout can also help solve mobility problems quickly and efficiently by enabling them to find alternate routes for attendees.
-
-    Accessibility extends to many factors beyond just mobility. For instance, if your event includes food, be sure to provide vegan options on par with omnivore offerings. If alcohol is provided, don’t forget to have non-alcoholic alternatives. In fact, consider planning some social events which either don’t require or revolve around drinking. This is particularly important if your event welcomes or encourages attendance by those younger than the legal drinking age. Holding your social or networking events in venues which are over-18 or over-21 excludes these attendees whom you’ve worked to make welcome elsewhere at your event. As well, try to plan out your social and networking events so they provide the space and ability for people to network and have conversations without the need to shout over a DJ.
-
-    These are just a few of the many ways you can make your event more accessible to more people. Additional ideas such as onsite child care, nursing rooms, or subsidized transit or parking passes can also be very helpful. Consider all of your attendees and what would be required to make them feel more welcome and comfortable in the event environment. 
 
 -----
 
