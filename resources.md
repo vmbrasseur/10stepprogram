@@ -24,3 +24,4 @@ Intended to be (mostly) a bibliography of the talk.
 * [3 Steps to Better Presentation Visuals](https://hbr.org/video/4642346287001/3-steps-to-better-presentation-visuals) by Harvard Business Review
 * [Presentation Zen](http://www.presentationzen.com/) by Garr Reynolds
 * [The Shapes of Stories](http://www.openculture.com/2014/02/kurt-vonnegut-masters-thesis-rejected-by-u-chicago.html) by Kurt Vonnegut
+* [4 Secrets to Giving a Speech Worthy of a Standing Ovation](http://www.entrepreneur.com/article/253040) by Baron Schwartz
