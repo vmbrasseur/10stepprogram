@@ -25,3 +25,4 @@ Intended to be (mostly) a bibliography of the talk.
 * [Presentation Zen](http://www.presentationzen.com/) by Garr Reynolds
 * [The Shapes of Stories](http://www.openculture.com/2014/02/kurt-vonnegut-masters-thesis-rejected-by-u-chicago.html) by Kurt Vonnegut
 * [4 Secrets to Giving a Speech Worthy of a Standing Ovation](http://www.entrepreneur.com/article/253040) by Baron Schwartz
+* [awesome-speaking](https://github.com/matteofigus/awesome-speaking)repository by Matteo Figus
