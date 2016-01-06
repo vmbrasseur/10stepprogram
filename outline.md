@@ -1,6 +1,6 @@
 # Content Ideas
 
-1. Know Your Audience
+1. **Know Your Audience**
     * Some criteria to consider:
         * technical level
         * human language
@@ -13,7 +13,7 @@
         * social media
         * Define it yourself up front
         * Declare technical level, language, etc & audience will self-select
-2. Have an Idea
+2. **Have an Idea**
     * The elevator pitch
         * CFP
     * Know your topic
@@ -46,7 +46,7 @@
         * Sales & Marketing
             * Expo floor is for the pitch
             * Session floor is for learning
-3. Tell a Story
+3. **Tell a Story**
     * Outlining
         * Methods
             * Hi-fi
@@ -72,7 +72,7 @@
       > * [EXERCISE: topic sentence](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/writing_a_topic_sentence.md)
       > * [EXERCISE: pick a story type](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/picking_a_story_type.md)
 
-4. Craft Your Presentation
+4. **Craft Your Presentation**
     * No Slides
         * demo-only talks
         * web tour talks
@@ -108,7 +108,7 @@
         * Consider adding bonus sections for particular audiences
     * accessory themes (like cats, pirates, racecars, etc.)
     * "you don't have to be a gigolo" (dealing with work-mandated themes)
-5. Practice Your Talk
+5. **Practice Your Talk**
     * This is NOT optional
     * Avoids "reading your slides"
         * Even if you have copious speaker notes
@@ -125,7 +125,7 @@
         * use a clicker
     * editing
     * flow (transitions, etc.)
-6. Get Ready to Speak
+6. **Get Ready to Speak**
     * 7 days before
         * check the schedule
         * check for other talks
@@ -162,7 +162,7 @@
         * remove lanyard
         * ALWAYS plug in your machine
         * verify internet (if needed)
-7. Present Yourself
+7. **Present Yourself**
     * eye contact
         * A must 
         * "Floating": Not only your friends or those people in the first 2 rows
@@ -184,7 +184,7 @@
         * floating
         * stance
         * diction/tongue-twisters
-8. Deal with Demo Failure
+8. **Deal with Demo Failure**
     * prepping demos (docker/vms/scripts/test runs)
     * terminal settings / setup
         * text size / colors
@@ -201,7 +201,7 @@
     * fake it till you make it
         * when a live demo is best
         * how to fake demos / fallbacks
-9. Interact with the Audience
+9. **Interact with the Audience**
     * Before the talk starts
         * quick polling
         * announcements
@@ -224,7 +224,7 @@
     * Interactive Exercises
         * rewarding audience members
     * [EXERCISE: Q&A](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/q_and_a.md)
-10. Continue the Conversation
+10. **Continue the Conversation**
     * hallway track
         * take it out to the hall
         * BOFs/follow up
