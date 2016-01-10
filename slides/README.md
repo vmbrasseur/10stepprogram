@@ -1,0 +1,5 @@
+# Generating the slides
+
+1. Perform the [full setup](https://github.com/hakimel/reveal.js/#installation) for [reveal.js](https://github.com/hakimel/reveal.js/)
+1. Install the [prez plugin](https://github.com/lmtm/prez) for reveal.js
+1. TBD
