@@ -11,6 +11,7 @@ This is all based off [the outline](https://github.com/vmbrasseur/10stepprogram/
   * "Title" elements are lowercase and replace the space characters with '_`
 * "Admin" slides are prefixed `00*-`
   * Introduction, title, etc things which aren't content as such
+  * Exercises are always titled `$highlevelpointnumber-100-exercises.md`
 * "Content" slides are `0*-` and above
   * Each high-level point (each one of the 10 steps) is a directory
     * Directory names are `$highlevelpointnumber-$point_title.md`
