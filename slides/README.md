@@ -11,4 +11,5 @@ See the [styleguide](./styleguide.md).
 
 ## Displaying the slides
 
-1. TBD
+1. Change to the desired slides directory (staging or production)
+1. Run prez --serve --such-notes
