@@ -1,3 +1,0 @@
-## Stacked slides
-
-Go down
