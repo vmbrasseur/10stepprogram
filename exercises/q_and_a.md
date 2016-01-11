@@ -4,6 +4,8 @@ EXERCISE: Q&A Werewolf
 This is a game for between 6 and 20 players, designed to teach techniques of handling 
 problematic people during Q&A sessions.
 
+Designed to take a total of 15 minutes, with 5 minutes for rules and 10 minutes of game play.
+
 Cards
 -----
 
