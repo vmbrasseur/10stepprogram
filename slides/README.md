@@ -1,3 +1,8 @@
+## Viewing the slides
+
+1. Change to the desired slides directory (staging or production)
+1. Have a look at the `slides.pdf` file that's there
+
 ## Editing the slides
 
 See the [styleguide](./styleguide.md).
