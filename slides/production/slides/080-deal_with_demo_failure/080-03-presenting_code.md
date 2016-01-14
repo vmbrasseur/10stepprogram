@@ -1,4 +1,4 @@
-## Craft Your Presentation
+## Dealing With Demo Failure
 
 ### Presenting code
 
