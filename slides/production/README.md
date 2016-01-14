@@ -1,1 +1,1 @@
-These are the slides we will use in the presentation.
+The slides we're actually going to use for the presentation.
