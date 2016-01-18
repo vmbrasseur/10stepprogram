@@ -1,5 +1,6 @@
 print=true
 suchNotes=true
+theme=night
 title=A 10 Step Program For Great Tech Talks
 author=Josh Berkus & VM (Vicky) Brasseur
 description=Great presenters are made, not born. The way to become a better speaker is through training, science, and practice. In this audience-participation tutorial, veteran conference presenters VM (Vicky) Brasseur and Josh Berkus will teach you the ten steps to great tech talks.
