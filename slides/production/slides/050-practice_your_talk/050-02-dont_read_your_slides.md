@@ -1,4 +1,4 @@
-## Craft Your Presentation
+## Practice Your Talk
 
 ### Avoids reading from your slides
 
