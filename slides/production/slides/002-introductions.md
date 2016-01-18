@@ -16,3 +16,7 @@
     </td>
   </tr>
 </table>
+
+note:
+
+Testing speaker notes
