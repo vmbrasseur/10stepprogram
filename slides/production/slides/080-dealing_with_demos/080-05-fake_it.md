@@ -1,4 +1,4 @@
-## Dealing With Demo Failure
+## Dealing With Demos
 
 ### Fake it 'til you make it
 
