@@ -8,4 +8,6 @@
 * Use a timer
 * Use a clicker
 
-TODO: everything here
+note:
+
+who?
