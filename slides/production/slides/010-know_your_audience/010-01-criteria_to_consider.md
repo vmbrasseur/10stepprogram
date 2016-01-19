@@ -9,4 +9,6 @@
 * Culture
 * Current events in the community
 
-TODO: Everything here
+note:
+
+

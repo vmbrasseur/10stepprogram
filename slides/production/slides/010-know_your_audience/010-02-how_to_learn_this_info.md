@@ -7,4 +7,8 @@
 * Define it yourself up front
   * Declare technical level, language, etc. & the audience will self-select
 
-TODO: everything here
+note:
+
+Example: the survey we ran prior to this talk
+
+Also: can look at talks/tweets from prior year
