@@ -7,4 +7,9 @@
 * Repeating the question
 * Ask for questioner's name
 
-TODO: everything here
+note:
+
+who?
+time?
+
+Q&A interspersed or save to end or…? Depends on the content & your style.

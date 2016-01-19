@@ -8,4 +8,7 @@
 * Offending your audience
 * "I have a story…" (comments rather than questions)
 
-TODO: everything here
+note: 
+
+who?
+time?

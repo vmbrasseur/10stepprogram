@@ -7,4 +7,7 @@
 * Pre-Q&A
 * Get people to move to the front of the room
 
-TODO: everything here
+note:
+
+who?
+time?
