@@ -19,4 +19,5 @@
 
 note:
 
-Testing speaker notes
+Both
+time?
