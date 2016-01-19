@@ -12,3 +12,5 @@ note:
 
 who?
 time?
+
+Respect the speaker who follows you: END ON TIME
