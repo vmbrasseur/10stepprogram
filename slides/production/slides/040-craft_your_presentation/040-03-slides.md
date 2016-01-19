@@ -11,5 +11,9 @@
   * Think inside the box
   * Twitter/IRC/Slack contact on each slide
 
-TODO: everything here
 TODO: Refactor this into multiple slides
+
+note: 
+
+J
+

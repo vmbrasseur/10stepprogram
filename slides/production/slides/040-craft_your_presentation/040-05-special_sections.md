@@ -7,4 +7,6 @@
 * Recap
 * More information
 
-TODO: everything here
+note:
+
+V

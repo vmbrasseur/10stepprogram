@@ -1,8 +1,9 @@
 ## Craft Your Presentation
 
-### You don't have to be a gigolo
+### You don't have to sell your soul
 
 * Work mandated slides
 
-TODO: everything here
-TODO: change the subtitle of this slide
+note:
+
+who?
