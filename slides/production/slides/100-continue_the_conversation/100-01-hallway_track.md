@@ -6,4 +6,9 @@
 * BoFs/Follow ups
 * Business cards!
 
-TODO: everything here
+note:
+
+who?
+time?
+
+Great way to make sure you end on time: "meet me in the hall"

@@ -5,4 +5,8 @@
 * Making videos/audio
 * Sharing video/audio
 
-TODO: everything here
+note:
+
+who?
+time?
+

@@ -4,4 +4,7 @@
 
 * stuff here
 
-TODO: everything here
+note:
+
+who?
+time?

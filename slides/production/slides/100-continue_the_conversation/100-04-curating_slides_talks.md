@@ -6,4 +6,7 @@
 * Version your talks!
 * Revise for each conference
 
-TODO: everything here
+note:
+
+who?
+time?

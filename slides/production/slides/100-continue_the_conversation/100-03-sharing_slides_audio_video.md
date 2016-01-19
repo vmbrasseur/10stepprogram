@@ -2,7 +2,7 @@
 
 ### Sharing slides, audio/video
 
-* Slideshare
+* Slideshare & YouTube
 * Internet Archive
 * Personal page
 * Speaker notes
@@ -10,4 +10,9 @@
   * Copyright != license
 * Sharing additional code
 
-TODO: everything here
+note:
+
+V
+time?
+
+Ping VMB for help getting things to Internet Archive.

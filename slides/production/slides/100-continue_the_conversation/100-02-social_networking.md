@@ -5,4 +5,10 @@
 * Replying to mentions
 * Sharing slides, audio/video
 
-TODO: everything here
+note:
+
+who?
+time?
+
+Engage w/your online audience, don't ignore them
+Announce availability of slides, audio/video
