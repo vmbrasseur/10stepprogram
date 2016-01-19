@@ -9,4 +9,7 @@
 * 40 minutes
 * Tutorial
 
-TODO: everything here
+note:
+
+who?
+time?

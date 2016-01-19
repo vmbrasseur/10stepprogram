@@ -4,4 +4,7 @@
 
 * Not all content is proper for every timeslot
 
-TODO: everything here
+note:
+
+who?
+time?

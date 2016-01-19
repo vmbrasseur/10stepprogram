@@ -8,4 +8,7 @@
   * What questions would the audience like answered?
   * What problems have the audience had?
 
-TODO: everything here
+note:
+
+who?
+time?

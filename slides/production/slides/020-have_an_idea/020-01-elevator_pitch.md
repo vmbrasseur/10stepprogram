@@ -6,6 +6,9 @@
 
 note:
 
+who?
+time?
+
 The CFP provides guidance about the types of talks wanted
 
 Minimal space, so refine your idea to be both descriptive & enticing

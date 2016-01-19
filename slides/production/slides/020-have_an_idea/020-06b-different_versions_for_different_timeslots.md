@@ -4,4 +4,7 @@
 
 * Have different versions for different timeslots
 
-TODO: everything here
+note:
+
+who?
+time?
