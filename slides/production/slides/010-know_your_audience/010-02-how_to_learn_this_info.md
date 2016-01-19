@@ -9,6 +9,9 @@
 
 note:
 
+who?
+time?
+
 Example: the survey we ran prior to this talk
 
 Also: can look at talks/tweets from prior year
