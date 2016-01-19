@@ -7,4 +7,7 @@
 * Smile and be engaged
 * Bad habits
 
-TODO: everything here
+note:
+
+V
+time?

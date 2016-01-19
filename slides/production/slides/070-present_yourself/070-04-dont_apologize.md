@@ -4,4 +4,7 @@
 
 * Just…just don't.
 
-TODO: everything here
+note:
+
+who?
+time?

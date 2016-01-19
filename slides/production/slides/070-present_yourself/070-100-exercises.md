@@ -6,4 +6,7 @@
 * Stance
 * Diction/tongue-twisters
 
-TODO: everything here
+note:
+
+who?
+time?
