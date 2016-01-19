@@ -7,4 +7,7 @@
   * Mind-mapping software
   * Kanban boards
 
-TODO: everything here
+note:
+
+Mind-mapping: freemind, bubbl.us, scapple (scrivener)
+Kanban: Trello, Huboard, Taiga

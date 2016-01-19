@@ -10,4 +10,6 @@
 * Show & Tell
 * Post mortem
 
-TODO: everything here
+note:
+
+JB

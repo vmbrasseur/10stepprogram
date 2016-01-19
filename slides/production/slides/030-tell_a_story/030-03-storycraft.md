@@ -4,4 +4,6 @@
 
 * stuff here
 
-TODO: everything here
+note:
+
+JB

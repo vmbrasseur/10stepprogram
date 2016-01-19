@@ -6,4 +6,6 @@
   * Sticky notes
   * Note cards
 
-TODO: everything here
+note:
+
+print shop -> custom-cut scraps for note cards
