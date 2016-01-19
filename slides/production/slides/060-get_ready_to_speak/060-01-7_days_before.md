@@ -7,4 +7,9 @@
 * Confirm special equipment
 * Double-check talk length and description
 
-TODO: everything here
+note:
+
+who?
+time?
+
+Minimize day-of surprises. Check these things out in advance.
