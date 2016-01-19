@@ -9,6 +9,7 @@
 note:
 
 V
+time?
 
 print shop -> custom-cut scraps for note cards
 
