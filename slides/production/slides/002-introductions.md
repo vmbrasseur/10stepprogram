@@ -1,18 +1,17 @@
 ## Introductions
 
-<table>
+<table >
   <tr>
-    <td>
-      <strong>Josh Berkus</strong>
-      <ul>
-        <li>TODO: Add Josh info</li>
-      </ul>
+    <td width="60%">
+      <h3>Josh Berkus</h3>
+      Twitter: @fuzzychef<br /><br />
+      Email: josh@agliodbs.com
     </td>
     <td>
-      <strong>VM (Vicky) Brasseur</strong>
-      <ul>
-        <li>TODO: Add Vicky info</li>
-      </ul>
+      <h3>VM (Vicky) Brasseur</h3>
+      Twitter: @vmbrasseur<br /><br />
+      IRC: vmbrasseur <br /><br />
+      email: scale14x@vmbrasseur.com
     </td>
   </tr>
 </table>
