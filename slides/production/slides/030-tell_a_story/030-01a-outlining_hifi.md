@@ -9,5 +9,7 @@
 
 note:
 
+V
+
 Mind-mapping: freemind, bubbl.us, scapple (scrivener)
 Kanban: Trello, Huboard, Taiga
