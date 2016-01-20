@@ -7,7 +7,7 @@ for one or more talks.
 Time
 ----
 
-This exercise should take ___ minutes.
+This exercise should take 5 minutes.
 
 Setup
 -----

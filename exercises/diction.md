@@ -8,7 +8,7 @@ to say.
 Time
 ----
 
-The exercise will take ___ minutes.
+The exercise will take 3 minutes.
 
 Setup
 -----
