@@ -1,6 +1,6 @@
 # Content Ideas
 
-1. **Know Your Audience**
+1. **Know Your Audience** V 
     * Some criteria to consider:
         * technical level
         * human language
@@ -13,7 +13,11 @@
         * social media
         * Define it yourself up front
         * Declare technical level, language, etc & audience will self-select
-2. **Have an Idea**
+    * Casual surveys (social media)
+        * What does audience want to hear?
+        * What questions would audience want answered?
+        * What problems have audience had?
+2. **Have an Idea** J
     * The elevator pitch
         * CFP
     * Know your topic
@@ -21,12 +25,6 @@
         * something you care about
         * Research
         * Develop the tech (demos, apps)
-    * Targeting it to the audience
-        * Reference "Know Your Audience" section
-    * Casual surveys (social media)
-        * What does audience want to hear?
-        * What questions would audience want answered?
-        * What problems have audience had?
     * What will the audience learn?
         * Take-aways: specific & actionable
         * What do you want them to do?
@@ -67,7 +65,7 @@
     * Storycraft (peaks & troughs)
         * [Nancy Duarte](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks)
         
-        > **EXERCISES**
+        > **EXERCISES** 15min
         > * [EXERCISE: adapting presos for audiences](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/adapting_content_to_audience.md)
       > * [EXERCISE: topic sentence](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/writing_a_topic_sentence.md)
       > * [EXERCISE: pick a story type](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/picking_a_story_type.md)
@@ -184,7 +182,7 @@
         * floating
         * stance
         * diction/tongue-twisters
-8. **Deal with Demo Failure**
+8. **Deal with Demo Failure** J 10min
     * prepping demos (docker/vms/scripts/test runs)
     * terminal settings / setup
         * text size / colors
@@ -201,7 +199,7 @@
     * fake it till you make it
         * when a live demo is best
         * how to fake demos / fallbacks
-9. **Interact with the Audience**
+9. **Interact with the Audience** 10min
     * Before the talk starts
         * quick polling
         * announcements
@@ -223,8 +221,8 @@
         * I have a story (comments not questions)
     * Interactive Exercises
         * rewarding audience members
-    * [EXERCISE: Q&A](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/q_and_a.md)
-10. **Continue the Conversation**
+    * [EXERCISE: Q&A](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/q_and_a.md) 15min
+10. **Continue the Conversation** 10min
     * hallway track
         * take it out to the hall
         * BOFs/follow up
