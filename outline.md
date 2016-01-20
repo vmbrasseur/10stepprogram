@@ -222,10 +222,10 @@ Introductions Both 1min
         * take it out to the hall
         * BOFs/follow up
         * Business cards!
-    * social networking J
+    * social networking V
         * replying to mentions
         * sharing slides/audio/video
-    * sharing slides, audio, video J
+    * sharing slides, audio, video V
         * slideshare
         * Internet Archive (nope, I won't budge on this one. :) )
         * personal page
