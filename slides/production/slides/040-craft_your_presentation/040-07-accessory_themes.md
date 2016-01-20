@@ -6,8 +6,7 @@
 
 note:
 
-who?
-time?
+V
 
 Themes to tie things together
 

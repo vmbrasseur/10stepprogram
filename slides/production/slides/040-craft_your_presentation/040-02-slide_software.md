@@ -7,8 +7,7 @@
 
 note:
 
-who?
-time?
+V
 
 Big 4: Powerpoint, Keynote, LibreOffice, Google Present
 
