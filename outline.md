@@ -1,6 +1,7 @@
 # Content Ideas
 
-1. **Know Your Audience** V 
+0. Introductions Both 1min
+1. **Know Your Audience** V 10min
     * Some criteria to consider:
         * technical level
         * human language
@@ -17,7 +18,7 @@
         * What does audience want to hear?
         * What questions would audience want answered?
         * What problems have audience had?
-2. **Have an Idea** J
+2. **Have an Idea** J 10min
     * The elevator pitch
         * CFP
     * Know your topic
@@ -44,8 +45,8 @@
         * Sales & Marketing
             * Expo floor is for the pitch
             * Session floor is for learning
-3. **Tell a Story**
-    * Outlining
+3. **Tell a Story** V 10min
+    * Outlining V
         * Methods
             * Hi-fi
                 * Mind-mapping software
@@ -54,39 +55,34 @@
                 * Sticky notes
                 * Note cards
         * Iterate
-    * The 6 basic presentation stories
+    * The 6 basic presentation stories J
         * catalog 
         * end-to-end
         * enlightenment
         * quest
         * theme & variations
         * show & tell
-        * post-mortem
-    * Storycraft (peaks & troughs)
-        * [Nancy Duarte](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks)
         
         > **EXERCISES** 15min
         > * [EXERCISE: adapting presos for audiences](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/adapting_content_to_audience.md)
       > * [EXERCISE: topic sentence](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/writing_a_topic_sentence.md)
       > * [EXERCISE: pick a story type](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/picking_a_story_type.md)
 
-4. **Craft Your Presentation**
-    * No Slides
+4. **Craft Your Presentation** J 10min
+    * No Slides J
         * demo-only talks
         * web tour talks
-    * Slide software
+    * Slide software V
         * The Big Three (Four?)
         * reveal.js and alternatives
-    * Slides
+    * Slides J
         * Colors (light/dark, heraldry)
         * Typefaces
         * Amount of words per slide (one idea == one slide)
         * Amount of slides per presentation
         * animations/transitions (use sparingly)
         * think inside the box (text/picture placement)
-        * Twitter/IRC/Slack contact on each slide
-            * Increases publicity & public discussion
-    * Presenting code
+    * Presenting code J
         * Colors
         * Typefaces
         * Number of lines per slide
@@ -94,42 +90,42 @@
             * collapse/zoom
             * terminal/text editor
             * don't present it all, link instead
-    * Special sections
+    * Special sections V
         * TOC
         * About/Intro
             * Keep to a minimum; they're not there to learn about you
         * Recap
         * More info page
-    * Have a section in reserve
+    * Have a section in reserve V
         * Bonus section if you have more time ("…one more thing")
         * Easy to cut if you're running short on time
         * Consider adding bonus sections for particular audiences
     * accessory themes (like cats, pirates, racecars, etc.)
     * "you don't have to be a gigolo" (dealing with work-mandated themes)
-5. **Practice Your Talk**
-    * This is NOT optional
-    * Avoids "reading your slides"
+5. **Practice Your Talk** V 10min
+    * This is NOT optional V
+    * Avoids "reading your slides" V
         * Even if you have copious speaker notes
-    * How to practice
+    * How to practice V
         * Present to a mirror (or your pet)
         * Present to your friends
         * Present at a local meetup
         * Record yourself!
-    * Timing, pacing, and tools
+    * Timing, pacing, and tools V
         * allow extra
         * write down section times
             * Practice each section separately (hit your times)
         * use a timer
         * use a clicker
-    * editing
-    * flow (transitions, etc.)
-6. **Get Ready to Speak**
-    * 7 days before
+    * editing V
+    * flow (transitions, etc.) V
+6. **Get Ready to Speak** V 5min
+    * 7 days before V
         * check the schedule
         * check for other talks
         * check on special equipment
         * double-check length, description
-    * 1 day before
+    * 1 day before V
         * Check the room
         * check the projectors
         * prepare backup slides
@@ -147,38 +143,36 @@
             * Power?
             * Will laptop fit on the podium?
             * If possible, do a complete setup & test
-    * 1 hour before
+    * 1 hour before V
         * finalize/confirm demos
         * shut down all other stuff on laptop
         * check clothes/hair
-    * 20 minutes (or session) before
+    * 20 minutes (or session) before V
         * go to the bathroom
         * go to the room (watch the prev. preso in room)
-    * 10 minutes
+    * 10 minutes V
         * turn off phone, close apps, silence notifications
         * empty pockets
         * remove lanyard
         * ALWAYS plug in your machine
         * verify internet (if needed)
-7. **Present Yourself**
-    * eye contact
+7. **Present Yourself** J 10min
+    * eye contact J
         * A must 
         * "Floating": Not only your friends or those people in the first 2 rows
         * avoid staring
-    * body language
+    * body language V
         * expansive shows more confidence (open/closed stance)
         * get up and move around!
         * smile and be engaged with the material and audience
-            * XXX Define "engaged"
         * avoiding bad habits (flapping, hunching, hands in pockets)
-    * voice
-        * Deeper voice better (JB: how does this work?) # XXX site Damian's talk & its references
+    * voice V
         * projection
         * diction
         * emotion/color
         * "Um"
-    * Never apologize for being an inexperienced speaker
-    * [EXERCISES](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/presenting_yourself.md)
+    * Never apologize for being an inexperienced speaker V
+    * [EXERCISES](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/presenting_yourself.md) 15min
         * floating
         * stance
         * diction/tongue-twisters
@@ -199,38 +193,38 @@
     * fake it till you make it
         * when a live demo is best
         * how to fake demos / fallbacks
-9. **Interact with the Audience** 10min
-    * Before the talk starts
+9. **Interact with the Audience** V 10min
+    * Before the talk starts V
         * quick polling
         * announcements
         * pre-Q&A
         * get people to move to the front of the room
-    * Asking for a response
+    * Asking for a response V
     * Jokes
         * good but hard to do right
-    * Basic Q&A
+    * Basic Q&A V
         * determining question periods
         * Picking audience members
         * repeating the question
         * Ask for questioner's name
-    * Audience problems
+    * Audience problems V
         * Don't know the answer
         * Dealing with that guy in the third row
         * jesus in the audience
         * offending your audience
         * I have a story (comments not questions)
-    * Interactive Exercises
+    * Interactive Exercises J
         * rewarding audience members
     * [EXERCISE: Q&A](https://github.com/vmbrasseur/10stepprogram/blob/master/exercises/q_and_a.md) 15min
-10. **Continue the Conversation** 10min
-    * hallway track
+10. **Continue the Conversation** J 10min
+    * hallway track J
         * take it out to the hall
         * BOFs/follow up
         * Business cards!
-    * social networking
+    * social networking J
         * replying to mentions
         * sharing slides/audio/video
-    * sharing slides, audio, video
+    * sharing slides, audio, video J
         * slideshare
         * Internet Archive (nope, I won't budge on this one. :) )
         * personal page
@@ -238,11 +232,11 @@
         * licensing!
             * Copyright != license
         * sharing additional code
-    * curating slides/talks
+    * curating slides/talks J
         * github/whatever
         * version your talks
         * revise for each conference
-    * getting feedback
+    * getting feedback V
         * conference systems
         * soliciting on your own
             * Online services
@@ -253,6 +247,7 @@
         * how to use feedback
             * grains of salt
             * improving your talk
-    * video/audio
+    * video/audio V
         * making videos
         * sharing video
+11. Conclusion
