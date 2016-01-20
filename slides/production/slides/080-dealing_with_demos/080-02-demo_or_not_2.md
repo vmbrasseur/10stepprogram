@@ -12,6 +12,8 @@ Don't demo because:
 
 note:
 
+Josh
+
 That said, there are a bunch of reasons NOT to do a demo. The biggest one that people
 fear is that the demo will fail, resulting in embarassment. This isn't as big of a real
 issue as it is a fear; most audiences are OK with demo failure because they're used 

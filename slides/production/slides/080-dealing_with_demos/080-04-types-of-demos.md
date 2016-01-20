@@ -10,6 +10,8 @@
 
 note:
 
+Josh
+
 People think of demos as only "live interactive demo", but there are 
 various levels, which escalate in terms of time involved to do them well,
 and risk of failure.

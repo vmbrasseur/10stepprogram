@@ -11,4 +11,6 @@
 * Multiple desktops
 * Embedded terminal
 
-TODO: everything here
+Note:
+
+Josh

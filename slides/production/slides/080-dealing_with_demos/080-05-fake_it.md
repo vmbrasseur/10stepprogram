@@ -5,4 +5,6 @@
 * When a live demo is best
 * How to fake demos/fallbacks
 
-TODO: everything here
+Note:
+
+Josh
