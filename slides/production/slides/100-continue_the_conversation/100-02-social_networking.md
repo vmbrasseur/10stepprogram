@@ -7,8 +7,7 @@
 
 note:
 
-who?
-time?
+V
 
 Engage w/your online audience, don't ignore them
 Announce availability of slides, audio/video

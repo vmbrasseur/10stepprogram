@@ -7,6 +7,4 @@
 
 note:
 
-who?
-time?
-
+V

@@ -8,7 +8,6 @@
 
 note:
 
-who?
-time?
+Josh
 
 Great way to make sure you end on time: "meet me in the hall"

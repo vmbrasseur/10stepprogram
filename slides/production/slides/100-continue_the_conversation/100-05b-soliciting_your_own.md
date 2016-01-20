@@ -12,5 +12,4 @@
 
 note:
 
-who?
-time?
+V
