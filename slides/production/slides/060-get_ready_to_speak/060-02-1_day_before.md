@@ -12,7 +12,6 @@
 
 note:
 
-who?
-time?
+V
 
 Can't do these things day before? Do morning of (during keynote)

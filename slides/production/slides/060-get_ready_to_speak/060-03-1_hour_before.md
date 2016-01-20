@@ -8,8 +8,7 @@
 
 note:
 
-who?
-time?
+V
 
 Don't drink too much coffee before your talk!
 If your computer supports it, set it to DND mode

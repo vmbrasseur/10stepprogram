@@ -11,8 +11,7 @@
 
 note:
 
-who?
-time?
+V
 
 Empty your pockets so you're not tempted to fiddle with things in them.
 

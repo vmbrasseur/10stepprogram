@@ -10,7 +10,6 @@
 
 note:
 
-who?
-time?
+V
 
 If possible, sit in on the presentation before

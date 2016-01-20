@@ -9,7 +9,6 @@
 
 note:
 
-who?
-time?
+V
 
 Minimize day-of surprises. Check these things out in advance.
