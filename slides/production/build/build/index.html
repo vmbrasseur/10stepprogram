@@ -1,0 +1,794 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+
+    <title>A 10 Step Program For Great Tech Talks</title>
+
+    <meta name="description" content="Great presenters are made, not born. The way to become a better speaker is through training, science, and practice. In this audience-participation tutorial, veteran conference presenters VM (Vicky) Brasseur and Josh Berkus will teach you the ten steps to great tech talks.">
+    <meta name="author" content="Josh Berkus &amp; VM (Vicky) Brasseur">
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/night.css" id="theme">
+
+    <!-- Code syntax highlighting -->
+    <link rel="stylesheet" href="css/highlight/styles/zenburn.css" id="highlight-theme">
+
+    <!-- Printing and PDF exports -->
+    <script>
+      var link = document.createElement( 'link' );
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+      document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+
+    <link rel="stylesheet" href="css/custom.css">
+
+  </head>
+
+  <body>
+
+    <div class="reveal">
+      <div class="slides"><section id="title" class="slide" data-has-notes="true">
+<h1>A 10 Step Program for Great Tech Talks</h1><h2>SCaLE 14x, 2016</h2><h3>#scale14x</h3><aside class="notes"><p>who?
+time?</p></aside>
+</section>
+<section id="introductions" class="slide" data-has-notes="true">
+<h2>Introductions</h2><table border="0">
+  <tr border="0">
+    <td width="60%">
+      <h3>Josh Berkus</h3>
+      Twitter: @fuzzychef<br /><br />
+      Freenode IRC: jberkus<br /><br />
+      Email: josh@agliodbs.com
+    </td>
+    <td>
+      <h3>VM (Vicky) Brasseur</h3>
+      Twitter: @vmbrasseur<br /><br />
+      Freenode IRC: vmbrasseur <br /><br />
+      Email: scale14x@vmbrasseur.com
+    </td>
+  </tr>
+  <tr>
+    <td width="60%" align="center">
+    <img src="../images/redhat190.png" alt="RedHat logo">
+    </td>
+    <td align="center">
+    <img src="../images/hewlett-packard-enterprise185.jpg" alt="HPE logo">
+    </td>
+  </tr>
+</table><aside class="notes"><p>Both
+time?</p></aside>
+</section>
+<section id="toc" class="slide" data-has-notes="true">
+<h2>TOC</h2><ol>
+<li>Know your audience</li>
+<li>Have an idea</li>
+<li>Tell a story<ul>
+<li>Exercises 1,2,3</li>
+</ul>
+</li>
+<li>Craft your presentation</li>
+<li>Practice your talk</li>
+<li>Get ready to speak</li>
+<li>Present yourself<ul>
+<li>Exercises 4,5,6</li>
+<li><strong>LUNCH!</strong></li>
+</ul>
+</li>
+<li>Deal with demos</li>
+<li>Interact with the audience<ul>
+<li>Exercise 7</li>
+</ul>
+</li>
+<li>Continue the conversation</li>
+</ol><aside class="notes"><p>This is the table of contents for the presentation; it shows what we&#39;re going to cover.
+In short presentations (anything under an hour), a TOC is not necessary and is probably
+a bad idea.  In tutorials, it&#39;s essential, particularly so that audiences will know
+what you plan to cover after the break.</p></aside>
+</section>
+<section>
+<section id="know_your_audience-title" class="slide" data-has-notes="true">
+<h1>1. Know Your Audience</h1><aside class="notes"><p>V<br>10min</p>
+<p>Before you write a single word, you need to know who&#39;s going to be listening to your presentation.</p></aside>
+</section>
+<section id="know_your_audience-criteria_to_consider" class="slide" data-has-notes="true">
+<h2>Know Your Audience</h2><h3>Some Criteria To Consider</h3><ul>
+<li>Technical level</li>
+<li>Human language</li>
+<li>Expected audience size</li>
+<li>Style expectations</li>
+<li>Culture</li>
+<li>Current events in the community</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="know_your_audience-how_to_learn_this_info" class="slide" data-has-notes="true">
+<h2>Know Your Audience</h2><h3>How to learn this information…</h3><ul>
+<li>Ask the conference organizers</li>
+<li>Social media</li>
+<li>Define it yourself up front<ul>
+<li>Declare technical level, language, etc. &amp; the audience will self-select</li>
+</ul>
+</li>
+</ul><aside class="notes"><p>V</p>
+<p>Example: the survey we ran prior to this talk</p>
+<p>Also: can look at talks/tweets from prior year</p></aside>
+</section>
+<section id="know_your_audience-casual_surveys" class="slide" data-has-notes="true">
+<h2>Have An Idea</h2><h3>Casual surveys</h3><ul>
+<li>Using social media to gather information</li>
+<li>Questions which can be answered<ul>
+<li>What does the audience want to hear?</li>
+<li>What questions would the audience like answered?</li>
+<li>What problems have the audience had?</li>
+</ul>
+</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+</section>
+<section>
+<section id="have_an_idea-title" class="slide" data-has-notes="true">
+<h1>2. Have An Idea</h1><aside class="notes"><p>Josh
+10min</p></aside>
+</section>
+<section id="have_an_idea-elevator_pitch" class="slide" data-has-notes="true">
+<h2>Have An Idea</h2><h3>The elevator pitch</h3><ul>
+<li>CFP</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="have_an_idea-know_your_topic" class="slide" data-has-notes="true">
+<h2>Have An Idea</h2><h3>Know your topic</h3><ul>
+<li>Something you know well (or will by the time you present)</li>
+<li>Something you care about</li>
+<li>Research!</li>
+<li>Develop the necessary examples (demos, apps, examples)</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="have_an_idea-what_will_the_audience_learn" class="slide" data-has-notes="true">
+<h2>Have An Idea</h2><h3>What will the audience learn?</h3><ul>
+<li>Take-aways must be specific and actionable</li>
+<li>What would you like the audience to be able to do by the end?</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="have_an_idea-appropriate_to_timeslot" class="slide" data-has-notes="true">
+<h2>Have An Idea</h2><h3>Appropriate to timeslot</h3><ul>
+<li>Not all content is proper for every timeslot</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="have_an_idea-06a-four_basic_timeslots" class="slide" data-has-notes="true">
+<h2>Have An Idea</h2><h3>Appropriate to timeslot</h3><h4>Four basic timeslots</h4><ul>
+<li>5 minutes</li>
+<li>20 minutes</li>
+<li>40 minutes</li>
+<li>Tutorial</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="have_an_idea-06b-different_versions_for_different_timeslots" class="slide" data-has-notes="true">
+<h2>Have An Idea</h2><h3>Appropriate to timeslot</h3><ul>
+<li>Have different versions for different timeslots</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="have_an_idea-topic_donts" class="slide" data-has-notes="true">
+<h2>Have An Idea</h2><h3>Do Not</h3><ul>
+<li>Be a sock puppet<ul>
+<li>Have your own story. Tell your own story</li>
+</ul>
+</li>
+<li>Present incomplete projects</li>
+<li>Bait &amp; Switch<ul>
+<li>Always fulfill the promise of your proposal</li>
+</ul>
+</li>
+<li>Sales &amp; Marketing<ul>
+<li>Expo floor is for the pitch. Session floor is for the learning.</li>
+</ul>
+</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+</section>
+<section>
+<section id="tell_a_story-title" class="slide" data-has-notes="true">
+<h1>3. Tell A Story</h1><aside class="notes"><p>V
+10min</p></aside>
+</section>
+<section id="tell_a_story-01a-outlining_hifi" class="slide" data-has-notes="true">
+<h2>Tell A Story</h2><h3>Outlining</h3><ul>
+<li>Organize your thoughts before starting to write</li>
+<li>Hi-fi methods<ul>
+<li>Mind-mapping software</li>
+<li>Kanban boards</li>
+</ul>
+</li>
+</ul><aside class="notes"><p>V</p>
+<p>Mind-mapping: freemind, bubbl.us, scapple (scrivener)
+Kanban: Trello, Huboard, Taiga</p></aside>
+</section>
+<section id="tell_a_story-01b-outlining_lofi" class="slide" data-has-notes="true">
+<h2>Tell A Story</h2><h3>Outlining</h3><ul>
+<li>Lo-fi methods<ul>
+<li>Sticky notes</li>
+<li>Note cards</li>
+</ul>
+</li>
+</ul><aside class="notes"><p>V</p>
+<p>print shop -&gt; custom-cut scraps for note cards</p>
+<p>Most important: The best system is the system you&#39;ll use.</p></aside>
+</section>
+<section id="tell_a_story-7_basic_stories" class="slide" data-has-notes="true">
+<h2>Tell A Story</h2><h3>Seven basic presentation story types</h3><ul>
+<li>Catalog</li>
+<li>End-to-end</li>
+<li>Enlightenment</li>
+<li>Quest</li>
+<li>Theme &amp; Variations</li>
+<li>Show &amp; Tell</li>
+<li>Post mortem</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="tell_a_story-exercises" class="slide" data-has-notes="true">
+<h2>Tell A Story</h2><h3>Exercises</h3><ul>
+<li>Adapting presentation to match the audience</li>
+<li>Creating a topic sentence</li>
+<li>Selecting a story type</li>
+</ul><aside class="notes"><p>Josh
+15min</p></aside>
+</section>
+</section>
+<section>
+<section id="craft_your_presentation-title" class="slide" data-has-notes="true">
+<h1>4. Craft Your Presentation</h1><aside class="notes"><p>Josh
+10min</p></aside>
+</section>
+<section id="craft_your_presentation-no_slides" class="slide" data-has-notes="true">
+<h2>Craft Your Presentation</h2><h3>No slides</h3><ul>
+<li>Demo-only</li>
+<li>Web tour</li>
+</ul><aside class="notes"><p>Josh</p>
+<p>Not common</p></aside>
+</section>
+<section id="craft_your_presentation-slide_software" class="slide" data-has-notes="true">
+<h2>Craft Your Presentation</h2><h3>Slide software</h3><ul>
+<li>The Big Four</li>
+<li>reveal.js and alternatives</li>
+</ul><aside class="notes"><p>V</p>
+<p>Big 4: Powerpoint, Keynote, LibreOffice, Google Present</p>
+<p>Alternatives: reveal.js, prezi, ???</p></aside>
+</section>
+<section id="craft_your_presentation-slides" class="slide" data-has-notes="true">
+<h2>Craft Your Presentation</h2><h3>Slides</h3><ul>
+<li>Colors<ul>
+<li>Light/dark, heraldry</li>
+<li>Typefaces</li>
+<li>Words per slide (one idea == one slide)</li>
+<li>Slides per presentation</li>
+<li>Animations/transitions</li>
+<li>Think inside the box</li>
+<li>Twitter/IRC/Slack contact on each slide</li>
+</ul>
+</li>
+</ul>
+<p>TODO: Refactor this into multiple slides</p><aside class="notes"><p>J</p></aside>
+</section>
+<section id="craft_your_presentation-special_sections" class="slide" data-has-notes="true">
+<h2>Craft Your Presentation</h2><h3>Special sections</h3><ul>
+<li>Table of contents</li>
+<li>About/intro</li>
+<li>Recap</li>
+<li>More information</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="craft_your_presentation-section_in_reserve" class="slide" data-has-notes="true">
+<h2>Craft Your Presentation</h2><h3>Bonus section!</h3><ul>
+<li>Keep one in reserve</li>
+<li>Use if you have more time</li>
+<li>Easy to cut if running short on time</li>
+<li>Audience-specific</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="craft_your_presentation-accessory_themes" class="slide" data-has-notes="true">
+<h2>Craft Your Presentation</h2><h3>Accessory themes</h3><ul>
+<li>cats, pirates, racecars, etc.</li>
+</ul><aside class="notes"><p>V</p>
+<p>Themes to tie things together</p></aside>
+</section>
+<section id="craft_your_presentation-dont_be_a_gigolo" class="slide" data-has-notes="true">
+<h2>Craft Your Presentation</h2><h3>You don&#39;t have to sell your soul</h3><ul>
+<li>Work mandated slides</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+</section>
+<section>
+<section id="practice_your_talk-title" class="slide" data-has-notes="true">
+<h1>5. Practice Your Talk</h1><aside class="notes"><p>V
+10min</p></aside>
+</section>
+<section id="practice_your_talk-not_optional" class="slide" data-has-notes="true">
+<h2>Practice Your Talk</h2><h3>This is NOT optional</h3><ul>
+<li>stuff here</li>
+</ul><aside class="notes"><p>V</p>
+<p>Survey results: one of the top complaints of audience members</p></aside>
+</section>
+<section id="practice_your_talk-dont_read_your_slides" class="slide" data-has-notes="true">
+<h2>Practice Your Talk</h2><h3>Avoids reading from your slides</h3><ul>
+<li>Even if you have a lot of speaker notes</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="practice_your_talk-how_to_practice" class="slide" data-has-notes="true">
+<h2>Practice Your Talk</h2><h3>How to practice</h3><ul>
+<li>To a mirror (or your pet)</li>
+<li>To your friends</li>
+<li>At a local meetup</li>
+<li>Record yourself!</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="practice_your_talk-timing_pacing_tools" class="slide" data-has-notes="true">
+<h2>Practice Your Talk</h2><h3>Timing, pacing, and tools</h3><ul>
+<li>Allow extra time</li>
+<li>Write down section times<ul>
+<li>Practice each section separately to hit its time</li>
+</ul>
+</li>
+<li>Use a timer</li>
+<li>Use a clicker</li>
+</ul><aside class="notes"><p>V</p>
+<p>Respect the speaker who follows you: END ON TIME</p></aside>
+</section>
+<section id="practice_your_talk-editing" class="slide" data-has-notes="true">
+<h2>Practice Your Talk</h2><h3>Editing</h3><ul>
+<li>stuff here</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="practice_your_talk-flow" class="slide" data-has-notes="true">
+<h2>Practice Your Talk</h2><h3>Flow</h3><ul>
+<li>Section and slide transitions (verbal and structural)</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+</section>
+<section>
+<section id="get_ready_to_speak-title" class="slide" data-has-notes="true">
+<h1>6. Getting Ready To Speak</h1><aside class="notes"><p>V
+5min</p>
+<p>Preparation is everything!</p></aside>
+</section>
+<section id="get_ready_to_speak-7_days_before" class="slide" data-has-notes="true">
+<h2>Getting Ready To Speak</h2><h3>Seven days before</h3><ul>
+<li>Confirm the schedule</li>
+<li>Check for opposing talks</li>
+<li>Confirm special equipment</li>
+<li>Double-check talk length and description</li>
+</ul><aside class="notes"><p>V</p>
+<p>Minimize day-of surprises. Check these things out in advance.</p></aside>
+</section>
+<section id="get_ready_to_speak-1_day_before" class="slide" data-has-notes="true">
+<h2>Getting Ready To Speak</h2><h3>One day before</h3><ul>
+<li>Double-check schedule</li>
+<li>Have a look at the room</li>
+<li>Test the projector</li>
+<li>Check out other equipment</li>
+<li>Prepare backup slides</li>
+<li>Do another run-through</li>
+<li>Get some sleep</li>
+</ul><aside class="notes"><p>V</p>
+<p>Can&#39;t do these things day before? Do morning of (during keynote)</p></aside>
+</section>
+<section id="get_ready_to_speak-1_hour_before" class="slide" data-has-notes="true">
+<h2>Getting Ready To Speak</h2><h3>One hour before</h3><ul>
+<li>Finalize/confirm demos</li>
+<li>Shut down all other apps on presentation laptop</li>
+<li>Check clothes/hair</li>
+</ul><aside class="notes"><p>V</p>
+<p>Don&#39;t drink too much coffee before your talk!
+If your computer supports it, set it to DND mode
+Turn off notifications on your phone/devices</p></aside>
+</section>
+<section id="get_ready_to_speak-20_minutes_before" class="slide" data-has-notes="true">
+<h2>Getting Ready To Speak</h2><h3>Twenty minutes before</h3><p>(Or session prior)</p>
+<ul>
+<li>Go to the bathroom<ul>
+<li>Double-check clothes, hair, teeth, fly</li>
+</ul>
+</li>
+<li>Be in the presentation room</li>
+</ul><aside class="notes"><p>V</p>
+<p>If possible, sit in on the presentation before</p></aside>
+</section>
+<section id="get_ready_to_speak-10_minutes_before" class="slide" data-has-notes="true">
+<h2>Getting Ready To Speak</h2><h3>Ten minutes before</h3><ul>
+<li>Turn off phone<ul>
+<li>Verify all apps are off/silenced</li>
+</ul>
+</li>
+<li>Empty pockets</li>
+<li>Remove lanyard</li>
+<li><strong>Plug in machine</strong></li>
+<li>Verify internet (if needed)</li>
+</ul><aside class="notes"><p>V</p>
+<p>Empty your pockets so you&#39;re not tempted to fiddle with things in them.</p>
+<p>Lanyards glint in the light &amp; are distracting. Ditch it.</p></aside>
+</section>
+</section>
+<section>
+<section id="present_yourself-title" class="slide" data-has-notes="true">
+<h1>7. Present Yourself</h1><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="present_yourself-eye_contact" class="slide" data-has-notes="true">
+<h2>Present Yourself</h2><h3>Eye contact</h3><ul>
+<li>Critical</li>
+<li>&quot;Floating&quot;<ul>
+<li>Not only your friends or those people in the first 2 rows</li>
+</ul>
+</li>
+<li>Avoid staring</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="present_yourself-body_language" class="slide" data-has-notes="true">
+<h2>Present Yourself</h2><h3>Body language</h3><ul>
+<li>Expansive (open stance)</li>
+<li>Move around</li>
+<li>Smile and be engaged</li>
+<li>Bad habits</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="present_yourself-voice" class="slide" data-has-notes="true">
+<h2>Present Yourself</h2><h3>Voice</h3><ul>
+<li>Projection</li>
+<li>Diction</li>
+<li>Emotion/color</li>
+<li>&quot;Um…&quot; and related vocal ticks</li>
+</ul><aside class="notes"><p>Survey: major peeve is not being able to understand the speaker</p>
+<p>V</p></aside>
+</section>
+<section id="present_yourself-dont_apologize" class="slide" data-has-notes="true">
+<h2>Present Yourself</h2><h3>Never apologize for being an inexperienced speaker</h3><ul>
+<li>Just…just don&#39;t.</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="present_yourself-lunch" class="slide">
+<h1>LUNCH!</h1>
+</section>
+<section id="present_yourself-exercises" class="slide" data-has-notes="true">
+<h2>Present Yourself</h2><h3>Exercises</h3><ul>
+<li>Floating</li>
+<li>Stance</li>
+<li>Diction/tongue-twisters</li>
+</ul><aside class="notes"><p>Josh
+15min</p></aside>
+</section>
+</section>
+<section>
+<section id="dealing_with_demos-title" class="slide" data-has-notes="true">
+<h1>8. Dealing With Demos</h1><h2>(and showing code)</h2><aside class="notes"><p>Josh
+10min</p></aside>
+</section>
+<section id="dealing_with_demos-demo_or_not" class="slide" data-has-notes="true">
+<h2>Dealing With Demos</h2><h3>To demo or not demo</h3><p>Demo because:</p>
+<ul>
+<li>Prove that it works</li>
+<li>Show that it&#39;s easy</li>
+<li>Entertain the audience</li>
+<li>Structure presentation</li>
+<li>You promised to</li>
+<li>Fun!</li>
+</ul><aside class="notes"><p>Josh</p>
+<p>Many speaker tutorials have focused on how difficult live demos are to
+carry off. This has new speakers gun-shy about demos.  Since this is about 
+technical presentations, you should consider including some kind of demo,
+at least showing some functional code.</p></aside>
+</section>
+<section id="dealing_with_demos-prepping_demos" class="slide" data-has-notes="true">
+<h2>Dealing With Demos</h2><h3>Prepping demos</h3><ul>
+<li>Docker/VMS</li>
+<li>Scripts</li>
+<li>Test runs</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="dealing_with_demos-demo_or_not_2" class="slide" data-has-notes="true">
+<h2>Dealing With Demos</h2><h3>To demo or not demo</h3><p>Don&#39;t demo because:</p>
+<ul>
+<li>Nothing to demo</li>
+<li>Demo failure</li>
+<li>Time</li>
+<li>Audience may not care</li>
+</ul><aside class="notes"><p>Josh</p>
+<p>That said, there are a bunch of reasons NOT to do a demo. The biggest one that people
+fear is that the demo will fail, resulting in embarassment. This isn&#39;t as big of a real
+issue as it is a fear; most audiences are OK with demo failure because they&#39;re used 
+to it. Your employer may not be, though.</p>
+<p>The bigger reason not to do it is that setting up and doing a demo is very time-consuming,
+and audiences don&#39;t seem to consider it very important. So you may want to stick 
+to the lowest levels of demo, or only do ones you think are fun.</p>
+<p>Also, some talks just don&#39;t lend themselves to demos, because they are &quot;meta&quot; or 
+community-based.</p></aside>
+</section>
+<section id="dealing_with_demos-terminal_settings" class="slide" data-has-notes="true">
+<h2>Dealing With Demos</h2><h3>Terminal settings &amp; setup</h3><ul>
+<li>Text size &amp; colors</li>
+<li>Set up windows in advance</li>
+<li>Practice swapping between slides &amp; demo</li>
+<li>Command history</li>
+<li>Virtual screens</li>
+<li>Keep text in top half of screen</li>
+<li>Multiple desktops</li>
+<li>Embedded terminal</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="dealing_with_demos-demo_or_not_graph" class="slide" data-background="images/good_practices.png" data-has-notes="true">
+<aside class="notes"><p>Josh</p>
+<p>Before this tutorial we did a survey on experienced 
+speaker/audience perceptions of what made a good talk good.
+You&#39;ll notice that demos and exercises are way down the list
+in things they consider important. Now, we don&#39;t know if this is
+because demos aren&#39;t valuable, or because most are badly done,
+but it does mean that a demo shouldn&#39;t be your first focus.</p></aside>
+</section>
+<section id="dealing_with_demos-failure" class="slide" data-has-notes="true">
+<h2>Dealing With Demos</h2><h3>Failure</h3><ul>
+<li>Why demos fail</li>
+<li>Fallbacks</li>
+<li>Dealing with the audience</li>
+</ul>
+<p>TODO: Consider moving this to the top of this stack</p><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="dealing_with_demos-types-of-demos" class="slide" data-has-notes="true">
+<h2>Dealing With Demos</h2><h3>Levels of demo</h3><ol>
+<li>Show some code</li>
+<li>Passive examination</li>
+<li>Video narration</li>
+<li>Show-and-execute</li>
+<li>Build-and-execute</li>
+</ol><aside class="notes"><p>Josh</p>
+<p>People think of demos as only &quot;live interactive demo&quot;, but there are 
+various levels, which escalate in terms of time involved to do them well,
+and risk of failure.</p>
+<p>The lowest level of demo is simple: show some code
+from a working project.  This is something almost every technical presentation
+should include. The second level is just a bit above that; explore 
+an installation of a &quot;working&quot; example of the project/topic.</p>
+<p>Graduating beyond that, you can record a video of yourself running
+whatever it is and narrate over it during your talk. This is almost
+as good as live execution without the risk of failure. Beware that audiences
+often react poorly to videos, though.</p>
+<p>The top two levels require the most setup and risk. 4 involves looking over 
+a fully set up application/tool, then launching it to show it off. 5 adds the 
+step of building that app/tool from scratch while the audience watches. The last
+only really works if you&#39;re VERY experienced in whatever you&#39;re doing.</p></aside>
+</section>
+<section id="dealing_with_demos-fake_it" class="slide" data-has-notes="true">
+<h2>Dealing With Demos</h2><h3>Fake it &#39;til you make it</h3><ul>
+<li>When a live demo is best</li>
+<li>How to fake demos/fallbacks</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="dealing_with_demos-presenting_code" class="slide" data-has-notes="true">
+<h2>Dealing With Demos</h2><h3>Level 1: showing code</h3><p>How to display it?</p>
+<ul>
+<li>Slide</li>
+<li>GUI Editor</li>
+<li>Terminal + Editor</li>
+</ul><aside class="notes"><p>Josh</p>
+<p>The lowest level, presenting code, is the one you&#39;ll do the most often,
+so it&#39;s important to get it right. Fortunately, this is mostly about
+formatting.</p>
+<p>Your first decision is how to show the code. Embedding in the slide is
+the most obvious, and keeps the flow of the presentation. However, 
+it&#39;s poorly suited to showing large amounts of code. You may want to
+switch to your editor of choice.</p>
+<ul>
+<li>Colors</li>
+<li>Typefaces</li>
+<li>Lines of code per slide</li>
+<li>How to show a lot of code<ul>
+<li>Collapse/zoom</li>
+<li>Terminal/text editor</li>
+<li>Link rather than show</li>
+</ul>
+</li>
+</ul></aside>
+</section>
+</section>
+<section>
+<section id="interact_with_the_audience-title" class="slide" data-has-notes="true">
+<h1>9. Interacting With The Audience</h1><aside class="notes"><p>V
+10min</p></aside>
+</section>
+<section id="interact_with_the_audience-before_the_talk_starts" class="slide" data-has-notes="true">
+<h2>Interacting With The Audience</h2><h3>Before the talk starts</h3><ul>
+<li>Quick polling</li>
+<li>Announcements</li>
+<li>Pre-Q&amp;A</li>
+<li>Get people to move to the front of the room</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="interact_with_the_audience-asking_for_a_response" class="slide" data-has-notes="true">
+<h2>Interacting With The Audience</h2><h3>Asking for a response</h3><ul>
+<li>stuff here</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="interact_with_the_audience-jokes" class="slide" data-has-notes="true">
+<h2>Interacting With The Audience</h2><h3>Jokes</h3><ul>
+<li>Good but hard to do right</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="interact_with_the_audience-basic_qa" class="slide" data-has-notes="true">
+<h2>Interacting With The Audience</h2><h3>Basic Q&amp;A</h3><ul>
+<li>Determining question periods</li>
+<li>Picking audience members</li>
+<li>Repeating the question</li>
+<li>Ask for questioner&#39;s name</li>
+</ul><aside class="notes"><p>V</p>
+<p>Q&amp;A interspersed or save to end or…? Depends on the content &amp; your style.</p></aside>
+</section>
+<section id="interact_with_the_audience-audience_problems" class="slide" data-has-notes="true">
+<h2>Interacting With The Audience</h2><h3>Audience problems</h3><ul>
+<li>You don&#39;t have an answer</li>
+<li>That Guy In The Third Row</li>
+<li>Jesus in the audience</li>
+<li>Offending your audience</li>
+<li>&quot;I have a story…&quot; (comments rather than questions)</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="interact_with_the_audience-interactive_exercises" class="slide" data-has-notes="true">
+<h2>Interacting With The Audience</h2><h3>Interactive exercises</h3><ul>
+<li>Rewarding audience members</li>
+</ul><aside class="notes"><p>V</p>
+<p>Candy, schwag</p></aside>
+</section>
+<section id="interact_with_the_audience-exercises" class="slide" data-has-notes="true">
+<h2>Interacting With The Audience</h2><h3>Exercises</h3><ul>
+<li>Q&amp;A</li>
+</ul><aside class="notes"><p>Josh
+15min</p></aside>
+</section>
+</section>
+<section>
+<section id="continue_the_conversation-title" class="slide" data-has-notes="true">
+<h1>10. Continue The Conversation</h1><aside class="notes"><p>Josh
+10min</p></aside>
+</section>
+<section id="continue_the_conversation-hallway_track" class="slide" data-has-notes="true">
+<h2>Continue The Conversation</h2><h3>Hallway track</h3><ul>
+<li>Take the conversation out to the hall</li>
+<li>BoFs/Follow ups</li>
+<li>Business cards!</li>
+</ul><aside class="notes"><p>Josh</p>
+<p>Great way to make sure you end on time: &quot;meet me in the hall&quot;</p></aside>
+</section>
+<section id="continue_the_conversation-social_networking" class="slide" data-has-notes="true">
+<h2>Continue The Conversation</h2><h3>Social networking</h3><ul>
+<li>Replying to mentions</li>
+<li>Sharing slides, audio/video</li>
+</ul><aside class="notes"><p>V</p>
+<p>Engage w/your online audience, don&#39;t ignore them
+Announce availability of slides, audio/video</p></aside>
+</section>
+<section id="continue_the_conversation-sharing_slides_audio_video" class="slide" data-has-notes="true">
+<h2>Continue The Conversation</h2><h3>Sharing slides, audio/video</h3><ul>
+<li>Slideshare &amp; YouTube</li>
+<li>Internet Archive</li>
+<li>Personal page</li>
+<li>Speaker notes</li>
+<li>Licensing!<ul>
+<li>Copyright != license</li>
+</ul>
+</li>
+<li>Sharing additional code</li>
+</ul><aside class="notes"><p>V
+time?</p>
+<p>Ping VMB for help getting things to Internet Archive.</p></aside>
+</section>
+<section id="continue_the_conversation-curating_slides_talks" class="slide" data-has-notes="true">
+<h2>Continue The Conversation</h2><h3>Curating slides/talks</h3><ul>
+<li>Version control</li>
+<li>Version your talks!</li>
+<li>Revise for each conference</li>
+</ul><aside class="notes"><p>Josh</p></aside>
+</section>
+<section id="continue_the_conversation-getting_feedback" class="slide" data-has-notes="true">
+<h2>Continue The Conversation</h2><h3>Getting feedback</h3><ul>
+<li>stuff here</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="continue_the_conversation-05a-conference_systems" class="slide" data-has-notes="true">
+<h2>Continue The Conversation</h2><h3>Getting feedback</h3><h4>Conference systems</h4><ul>
+<li>stuff here</li>
+</ul><aside class="notes"><p>V</p>
+<p>Some conference software includes ability to rate talks &amp; provide feedback to the speakers.</p></aside>
+</section>
+<section id="continue_the_conversation-05b-soliciting_your_own" class="slide" data-has-notes="true">
+<h2>Continue The Conversation</h2><h3>Getting feedback</h3><h4>Soliciting on your own</h4><ul>
+<li>Online services<ul>
+<li>Joind.in</li>
+<li>Google Forms</li>
+<li>SurveyMonkey</li>
+<li>Social networks</li>
+</ul>
+</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+<section id="continue_the_conversation-05c-how_to_use_feedback" class="slide" data-has-notes="true">
+<h2>Continue The Conversation</h2><h3>Getting feedback</h3><h4>How to use feedback</h4><ul>
+<li>Grains of salt</li>
+<li>Improving your talk</li>
+</ul><aside class="notes"><p>V</p>
+<p>Reviewers are usually at the extremes of the spectrum. Strong feelings motivate participation in ratings. Meh feelings? People often don&#39;t bother reviewing.</p></aside>
+</section>
+<section id="continue_the_conversation-video_audio" class="slide" data-has-notes="true">
+<h2>Continue The Conversation</h2><h3>Video/audio</h3><ul>
+<li>Making videos/audio</li>
+<li>Sharing video/audio</li>
+</ul><aside class="notes"><p>V</p></aside>
+</section>
+</section>
+<section>
+<section id="conclusion-title" class="slide" data-has-notes="true">
+<h1>Wrapping up</h1><aside class="notes"><p>who?
+time?</p></aside>
+</section>
+<section id="conclusion-resources" class="slide" data-has-notes="true">
+<h2>Resources</h2><p>GitHub repo: <a href="https://github.com/vmbrasseur/10stepprogram">https://github.com/vmbrasseur/10stepprogram</a></p>
+<p>Links: <a href="https://github.com/vmbrasseur/10stepprogram/blob/master/resources.md">resources.md</a> in the repo above</p>
+<p>Slides/Video: <a href="https://archive.org/details/scale14x-speaker-training">https://archive.org/details/scale14x-speaker-training</a></p><aside class="notes"><p>V
+time?</p></aside>
+</section>
+<section id="conclusion-contact_us" class="slide">
+<h2>Contact us</h2><table >
+  <tr>
+    <td width="60%">
+      <h3>Josh Berkus</h3>
+      Twitter: @fuzzychef<br /><br />
+      Freenode IRC: jberkus<br /><br />
+      Email: josh@agliodbs.com
+    </td>
+    <td>
+      <h3>VM (Vicky) Brasseur</h3>
+      Twitter: @vmbrasseur<br /><br />
+      Freenode IRC: vmbrasseur <br /><br />
+      Email: scale14x@vmbrasseur.com
+    </td>
+  </tr>
+</table>
+</section>
+<section id="conclusion-feedback" class="slide">
+<h2>Feedback!</h2><p>Join the eval() empire!</p>
+<p>Give us feedback!</p>
+<p><a href="http://j.mp/scale14xspeakertraining">http://j.mp/scale14xspeakertraining</a></p>
+</section>
+</section></div>
+    </div>
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+
+    <script>
+    // Full list of configuration options available at:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+      controls: true,
+      progress: true,
+      history: true,
+      center: true,
+
+      transition: Reveal.getQueryHash().transition || 'slide', // none/fade/slide/convex/concave/zoom
+
+      // Optional reveal.js plugins
+      dependencies: [
+        //{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+        //{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+        //{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+        { src: 'plugin/zoom-js/zoom.js', async: true },
+        { src: 'plugin/notes/notes.js', async: true }
+      ]
+    });
+    </script>
+
+    <script src="js/dynamic-theme.js"></script><script src="js/such-notes-print.js"></script><script src="js/custom.js"></script>
+
+  </body>
+</html>
