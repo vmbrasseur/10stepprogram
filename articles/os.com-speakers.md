@@ -2,6 +2,8 @@
 
 * let speakers know whom to contact about a problem (speaker coordinator)
 * Provided A/V, connectors
+* Aspect ratio of projectors
+    * And maybe the make/model of the projector
 * Whether it'll be recorded and, if so, when/where it may be available & what the speakers' reposting rights are
 * Provide a talk feedback/rating mechanism
     * plug it in keynotes
