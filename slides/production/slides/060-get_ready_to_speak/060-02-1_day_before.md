@@ -10,4 +10,9 @@
 * Do another run-through
 * Get some sleep
 
-TODO: everything here
+note:
+
+who?
+time?
+
+Can't do these things day before? Do morning of (during keynote)

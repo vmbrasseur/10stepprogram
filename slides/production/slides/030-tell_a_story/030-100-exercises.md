@@ -6,4 +6,7 @@
 * Creating a topic sentence
 * Selecting a story type
 
-TODO: everything here
+note:
+
+who?
+time?

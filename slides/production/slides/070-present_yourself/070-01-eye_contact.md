@@ -7,4 +7,7 @@
   * Not only your friends or those people in the first 2 rows
 * Avoid staring
 
-TODO: everything here
+note:
+
+J
+time?

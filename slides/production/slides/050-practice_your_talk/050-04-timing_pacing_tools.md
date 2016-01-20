@@ -8,4 +8,9 @@
 * Use a timer
 * Use a clicker
 
-TODO: everything here
+note:
+
+who?
+time?
+
+Respect the speaker who follows you: END ON TIME

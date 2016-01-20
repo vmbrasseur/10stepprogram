@@ -3,3 +3,8 @@
 ## SCaLE 14x, 2016
 
 ### #scale14x
+
+note:
+
+who?
+time?

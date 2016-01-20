@@ -4,4 +4,10 @@
 
 * cats, pirates, racecars, etc.
 
-TODO: everything here
+note:
+
+who?
+time?
+
+Themes to tie things together
+

@@ -4,4 +4,7 @@
 
 * Q&A
 
-TODO: everything here
+note:
+
+who?
+time?

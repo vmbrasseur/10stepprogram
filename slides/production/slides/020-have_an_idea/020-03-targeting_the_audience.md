@@ -4,4 +4,7 @@
 
 * Refer to the "Know your audience" section
 
-TODO: everything here
+note:
+
+who?
+time?

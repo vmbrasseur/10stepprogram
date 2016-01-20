@@ -8,4 +8,9 @@
   * Double-check clothes, hair, teeth, fly
 * Be in the presentation room
 
-TODO: everything here
+note:
+
+who?
+time?
+
+If possible, sit in on the presentation before

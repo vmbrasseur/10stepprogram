@@ -7,4 +7,7 @@
 * Research!
 * Develop the necessary examples (demos, apps, examples)
 
-TODO: everything here
+note:
+
+who?
+time?

@@ -8,6 +8,9 @@
   * Joind.in
   * Google Forms
   * SurveyMonkey
-  * etc.
+  * Social networks
 
-TODO: everything here
+note:
+
+who?
+time?

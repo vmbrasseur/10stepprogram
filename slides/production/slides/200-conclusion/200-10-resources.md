@@ -1,3 +1,8 @@
 ## Resources
 
-TODO: everything here
+* stuff here
+
+note:
+
+V
+time?

@@ -5,4 +5,11 @@
 * The Big Four
 * reveal.js and alternatives
 
-TODO: everything here
+note:
+
+who?
+time?
+
+Big 4: Powerpoint, Keynote, LibreOffice, Google Present
+
+Alternatives: reveal.js, prezi, ???

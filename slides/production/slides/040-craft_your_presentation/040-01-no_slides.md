@@ -5,4 +5,9 @@
 * Demo-only
 * Web tour
 
-TODO: everything here
+note:
+
+who?
+time?
+
+Not common

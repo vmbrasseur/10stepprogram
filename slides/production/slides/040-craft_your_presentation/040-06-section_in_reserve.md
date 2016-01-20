@@ -7,4 +7,7 @@
 * Easy to cut if running short on time
 * Audience-specific
 
-TODO: everything here
+note:
+
+who?
+time?

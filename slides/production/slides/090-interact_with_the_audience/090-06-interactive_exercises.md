@@ -4,4 +4,9 @@
 
 * Rewarding audience members
 
-TODO: everything here
+note:
+
+who?
+time?
+
+Candy, schwag

@@ -4,4 +4,8 @@
 
 * Even if you have a lot of speaker notes
 
-TODO: everything here
+note:
+
+who?
+time
+

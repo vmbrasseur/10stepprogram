@@ -7,4 +7,7 @@
 * At a local meetup
 * Record yourself!
 
-TODO: everything here
+note:
+
+who?
+time?

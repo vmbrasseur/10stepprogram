@@ -4,4 +4,9 @@
 
 * stuff here
 
-TODO: everything here
+note:
+
+V
+time?
+
+Survey results: one of the top complaints of audience members

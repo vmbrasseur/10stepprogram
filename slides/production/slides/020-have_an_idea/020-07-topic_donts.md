@@ -10,4 +10,7 @@
 * Sales & Marketing
   * Expo floor is for the pitch. Session floor is for the learning.
 
-TODO: everything here
+note:
+
+who?
+time?
