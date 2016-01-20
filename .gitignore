@@ -4,3 +4,7 @@
 *.gz
 *.swp
 .DS_Store
+slides/production/slides.pdf
+slides/production/build/index.html
+slides/staging/slides.pdf
+slides/staging/builds/index.html
