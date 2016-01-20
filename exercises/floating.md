@@ -6,7 +6,7 @@ This exercise teaches use of eye contact.
 Time
 ----
 
-The exercise will take ___ minutes.
+The exercise will take 5 minutes.
 
 Setup
 -----

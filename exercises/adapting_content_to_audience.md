@@ -7,7 +7,7 @@ audiences.
 Time
 ----
 
-This exercise should take ___ minutes.  Not all parcipants will have time
+This exercise should take 10 minutes.  Not all participants will have time
 to speak, but all should be able to participate in the discussion.
 
 Setup

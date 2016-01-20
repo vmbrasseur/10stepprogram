@@ -6,7 +6,7 @@ This exercise teaches how stance affects talk delivery.
 Time
 ----
 
-This exercise will take ___ minutes.
+This exercise will take 5 minutes.
 
 Setup
 -----

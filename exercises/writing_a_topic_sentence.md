@@ -4,10 +4,15 @@ EXERCISE: Writing a topic sentence
 This exercise helps participants learn how to narrow down
 a topic to express it clearly and succinctly.
 
+Time
+----
+
+This exercise should take 5 minutes.
+
 Setup
 -----
 
-Shuffle the Topic Cards.  
+Shuffle the Topic Cards.
 
 Each participant will do one of two things:
 
