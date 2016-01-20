@@ -27,5 +27,10 @@
 
 note:
 
-Both
-time?
+Who we are
+
+Why we're the ones to give this talk
+
+What we hope to accomplish
+
+Transition into TOC…
