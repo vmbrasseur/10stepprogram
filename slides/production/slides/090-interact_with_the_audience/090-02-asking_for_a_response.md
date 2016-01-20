@@ -6,5 +6,4 @@
 
 note:
 
-who?
-time?
+V

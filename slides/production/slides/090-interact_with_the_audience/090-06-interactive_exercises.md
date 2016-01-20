@@ -6,7 +6,6 @@
 
 note:
 
-who?
-time?
+V
 
 Candy, schwag

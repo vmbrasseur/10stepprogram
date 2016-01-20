@@ -9,7 +9,6 @@
 
 note:
 
-who?
-time?
+V
 
 Q&A interspersed or save to end or…? Depends on the content & your style.
