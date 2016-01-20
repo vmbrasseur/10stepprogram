@@ -9,8 +9,7 @@
 
 note:
 
-who?
-time?
+V
 
 Example: the survey we ran prior to this talk
 
