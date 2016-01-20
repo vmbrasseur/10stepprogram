@@ -15,11 +15,4 @@
       Email: scale14x@vmbrasseur.com
     </td>
   </tr>
-  <tr>
-  <td colspan="3">&nbsp;</td>
-  </tr>
 </table>
-
-### Feedback!
-
-http://j.mp/scale14xspeakertraining
