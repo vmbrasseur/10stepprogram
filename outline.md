@@ -1,6 +1,7 @@
 # Content Ideas
 
-0. Introductions Both 1min
+Introductions Both 1min
+
 1. **Know Your Audience** V 10min
     * Some criteria to consider:
         * technical level
