@@ -10,7 +10,6 @@
 note:
 
 V
-time?
 
 Mind-mapping: freemind, bubbl.us, scapple (scrivener)
 Kanban: Trello, Huboard, Taiga

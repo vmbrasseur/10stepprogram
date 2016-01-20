@@ -12,5 +12,4 @@
 
 note:
 
-J
-time?
+Josh 
