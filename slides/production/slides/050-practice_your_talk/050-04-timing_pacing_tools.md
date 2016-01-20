@@ -10,7 +10,6 @@
 
 note:
 
-who?
-time?
+V
 
 Respect the speaker who follows you: END ON TIME
