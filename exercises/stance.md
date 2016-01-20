@@ -1,4 +1,4 @@
-EXERCISE: Stance
+EXERCISE 5: Stance
 =====
 
 This exercise teaches how stance affects talk delivery.

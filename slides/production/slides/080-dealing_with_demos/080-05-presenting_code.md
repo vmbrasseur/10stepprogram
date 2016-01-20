@@ -23,12 +23,3 @@ switch to your editor of choice.
 
 
 
-* Colors
-* Typefaces
-* Lines of code per slide
-* How to show a lot of code
-  * Collapse/zoom
-  * Terminal/text editor
-  * Link rather than show
-
-
