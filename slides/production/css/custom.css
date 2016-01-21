@@ -32,4 +32,12 @@
   background: #FFFFFF;
   color: #000000;
   word-wrap: normal; }
+  
+.boxaround {
+  border: 4px solid white;
+  left: 1;
+  right: 1;
+  top: 1;
+  bottom: 2;
+}
 
