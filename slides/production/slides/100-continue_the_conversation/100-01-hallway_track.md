@@ -3,8 +3,9 @@
 ### Hallway track
 
 * Take the conversation out to the hall
-* BoFs/Follow ups
-* Business cards!
+* BoFs/follow up
+* Share your twitter/email
+* Hand out business cards!
 
 note:
 
