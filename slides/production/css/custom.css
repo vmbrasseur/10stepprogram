@@ -1,6 +1,12 @@
 /* custom styles can go here */
+
+.reveal h1 {
+  text-shadow: 4px 4px #000000;
+}
+
 .reveal h2 {
   color:#e7ad52;
+  text-shadow: 2px 2px #000000;
 }
 
 .reveal pre {
