@@ -1,4 +1,4 @@
-EXERCISE: Adapting Presentation Content to Your Audience
+EXERCISE 1: Adapting Presentation Content to Your Audience
 =======
 
 In this exercise, participants will be trying to re-interpret content for different 

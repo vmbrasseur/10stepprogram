@@ -1,4 +1,4 @@
-EXERCISE: Floating
+EXERCISE 4: Floating
 ======
 
 This exercise teaches use of eye contact.

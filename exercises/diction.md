@@ -1,4 +1,4 @@
-EXERCISE: Diction
+EXERCISE 6: Diction
 =======
 
 This exercise is meant to help diction, but having

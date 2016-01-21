@@ -1,4 +1,4 @@
-EXERCISE: Writing a topic sentence
+EXERCISE 2: Writing a topic sentence
 =====
 
 This exercise helps participants learn how to narrow down

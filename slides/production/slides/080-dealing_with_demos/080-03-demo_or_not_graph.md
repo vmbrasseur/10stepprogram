@@ -1,4 +1,5 @@
-$background:images/good_practices.png$
+![graph showing preferences against demos](images/good_practices.jpg)
+
 
 note:
 

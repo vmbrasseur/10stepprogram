@@ -1,4 +1,4 @@
-EXERCISE: Picking a story type
+EXERCISE 3: Picking a story type
 =====
 
 In this exercise, participants will each attempt to pick a "story type"

@@ -8,8 +8,8 @@ Exercises I
 
 This batch of exercises includes:
 
-1. writing a topic sentence
-2. adapting content to audiences
+1. adapting content to audiences
+2. writing a topic sentence
 3. picking a story type
 
 Audience members will divide up according
