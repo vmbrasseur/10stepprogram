@@ -1,14 +1,12 @@
 ## Have An Idea
 
-### Do Not
+### Topic Don'ts
 
-* Be a sock puppet
-  * Have your own story. Tell your own story
-* Present incomplete projects
-* Bait & Switch
-  * Always fulfill the promise of your proposal
-* Sales & Marketing
-  * Expo floor is for the pitch. Session floor is for the learning.
+![sock puppet image](images/sock_puppet.jpg)
+
+#### Sock Puppet
+
+_make the topic your own or don't present it_
 
 note:
 

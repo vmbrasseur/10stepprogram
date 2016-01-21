@@ -1,4 +1,4 @@
-![graph showing preferences against demos](images/good_practices.jpg)
+![graph showing preferences against demos](images/good_practices_bigger.jpg)
 
 
 note:

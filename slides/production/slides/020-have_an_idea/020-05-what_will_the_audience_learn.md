@@ -2,8 +2,14 @@
 
 ### What will the audience learn?
 
-* Take-aways must be specific and actionable
-* What would you like the audience to be able to do by the end?
+By the end, the audience should:
+
+* Learn something useful
+* Learn something enlightening
+* Be able to do something they couldn't
+* Do something specific
+
+What do you want from the audience?
 
 note:
 

@@ -2,7 +2,7 @@
 
 ### Appropriate to timeslot
 
-* Have different versions for different timeslots
+![clock face](images/clock_face.jpg)
 
 note:
 
