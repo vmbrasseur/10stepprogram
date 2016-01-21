@@ -2,9 +2,8 @@
 
 ### Live Demos: Terminal Settings
 
-### Make Your Terminal Text Bigger!
-
-* Use white background or disable colorization
+* Use white background
+  <br />or disable colorization
 * Keep cursor in top half of terminal
   <br />Tmux, partial window, etc.
 * Use muliple desktops to switch
