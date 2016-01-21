@@ -2,7 +2,7 @@
 
 ### Getting feedback
 
-* stuff here
+You can't improve if you don't get feedback.
 
 note:
 

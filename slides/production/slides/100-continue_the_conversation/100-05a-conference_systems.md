@@ -4,7 +4,7 @@
 
 #### Conference systems
 
-* stuff here
+
 
 note:
 
