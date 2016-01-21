@@ -59,8 +59,8 @@ Introductions Both 1min
     * The 6 basic presentation stories J
         * catalog 
         * end-to-end
-        * enlightenment
         * quest
+        * enlightenment
         * theme & variations
         * show & tell
         
