@@ -10,6 +10,7 @@ note:
 
 V
 
-Don't drink too much coffee before your talk!
-If your computer supports it, set it to DND mode
-Turn off notifications on your phone/devices
+* If you're doing a demo, this is the time to do final checks. Josh will talk a lot more later about how to handle demos in a presentation.
+* Set your computer to do-not-disturb mode. Shut down all unnecessary apps. Remove the possibility that your talk may be interrupted by a notification from your partner that the dog just puked on the carpet again.
+* Set all your devices to silent mode and get them out of sight. These can be very distracting during a performance.
+* Give yourself a quick self-inspection. How do you look? How do you feel? 
