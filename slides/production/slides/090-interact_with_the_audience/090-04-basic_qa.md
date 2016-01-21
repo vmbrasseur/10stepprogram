@@ -11,4 +11,4 @@ note:
 
 V
 
-Q&A interspersed or save to end or…? Depends on the content & your style.
+* Q&A interspersed or save to end or…? Depends on the content & your style. I'm easily distracted, so I typically prefer to save all of the questions until the end.
