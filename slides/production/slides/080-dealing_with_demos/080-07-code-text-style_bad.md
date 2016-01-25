@@ -13,3 +13,5 @@ This is an example of badly formatted code.  Note the following problems:
 * Code is not aligned
 * Lines are too long
 * assignments not aligned
+* pastel palette
+

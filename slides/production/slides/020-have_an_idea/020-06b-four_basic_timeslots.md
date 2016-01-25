@@ -14,3 +14,6 @@
 note:
 
 Josh
+
+There are four basic timeslots you'll run into in current
+technical conferences.
