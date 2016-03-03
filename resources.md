@@ -27,3 +27,4 @@ Intended to be (mostly) a bibliography of the talk.
 * [4 Secrets to Giving a Speech Worthy of a Standing Ovation](http://www.entrepreneur.com/article/253040) by Baron Schwartz
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking)repository by Matteo Figus
 * [How to craft a successful OpenStack Summit proposal](http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal) by Nicole Martinelli
+* [Doing a TED Talk: The Full Story](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html) by Tim Urban
