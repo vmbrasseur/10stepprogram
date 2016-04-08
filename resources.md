@@ -1,8 +1,8 @@
 # Resources
 
-A file for containing resources about public speaking.
+Resources about public speaking.
 
-Intended to be (mostly) a bibliography of the talk.
+Originally intended to be a bibliography of the talk, it has since expanded to include any resources we locate.
 
 * [speaking.io: Thoughts on public speaking](http://speaking.io/) by Zach Holman
 * [How do conference speakers get compensated](https://www.linkedin.com/pulse/20140731092421-4973136-how-do-conference-speakers-get-compensated) by Curtis "Ovid" Poe
