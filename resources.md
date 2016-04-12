@@ -28,3 +28,4 @@ Originally intended to be a bibliography of the talk, it has since expanded to i
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking)repository by Matteo Figus
 * [How to craft a successful OpenStack Summit proposal](http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal) by Nicole Martinelli
 * [Doing a TED Talk: The Full Story](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html) by Tim Urban
+* [A white-label slide deck](http://alicebartlett.co.uk/blog/how-to-do-ok-at-slides) by Alice Bartlett
