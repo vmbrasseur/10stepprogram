@@ -30,3 +30,4 @@ Originally intended to be a bibliography of the talk, it has since expanded to i
 * [Doing a TED Talk: The Full Story](http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html) by Tim Urban
 * [A white-label slide deck](http://alicebartlett.co.uk/blog/how-to-do-ok-at-slides) by Alice Bartlett
 * [10 things you should NEVER say during presentations](http://thenextweb.com/lifehacks/2013/09/12/10-things-you-should-never-say-during-presentations-2/) by Boris Veldhuijzen van Zanten 
+* [How to start speaking (in tech conferences)](https://medium.com/@karen_meep/how-to-start-speaking-in-tech-conferences-f64a9f3a84a6#.ev7mefjfq) by Karen Meep
