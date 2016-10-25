@@ -32,3 +32,7 @@ as start_connects;
 note:
 
 Who: Josh
+
+As you can see by the scrollbars, this is WAY too much code for one slide.
+While you can scroll, it's better to highlight the code you want to talk
+about in a series of slides.  We call this "snippet zoom".

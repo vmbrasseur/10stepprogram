@@ -5,7 +5,9 @@
 * At a local meetup
 * To your friends
 * To a mirror (or your pet)
-* Record yourself!
+* Video!
+
+Full Volume and Full Speed
 
 note:
 
@@ -21,4 +23,5 @@ If you don't have the opportunity to practice for other people, do it at least f
 
 Once you're more comfortable with the material, practice in front of a mirror to try to see and correct some of your physical and stance foibles.
 
-Regardless of the method you choose, try to record yourself. Many of us hate watching videos of ourselves (myself included), but few things are quite as effective at helping you spot and correct potential problems with your presentation and performance.
+Regardless of the method you choose, try to record yourself. Many of us hate watching videos of ourselves (myself included), but few things are quite as effective at helping you spot and correct potential problems with your presentation and performance.  Plus, if you
+have a really good rehearsal run, that can be your sharing video later.

@@ -20,3 +20,7 @@ as start_connects;
 note:
 
 Who: Josh
+
+If you need to show more of the code, you can then expand and contract sections,
+allowing you to display each section you're talking about in a large point size
+on the screen.  

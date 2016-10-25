@@ -5,7 +5,7 @@
 }
 
 .reveal h2 {
-  color:#e7ad52;
+  color:#f2e235;
   text-shadow: 2px 2px #000000;
 }
 
@@ -32,7 +32,7 @@
   background: #FFFFFF;
   color: #000000;
   word-wrap: normal; }
-  
+
 .boxaround {
   border: 4px solid white;
   left: 1;
@@ -40,4 +40,3 @@
   top: 1;
   bottom: 2;
 }
-

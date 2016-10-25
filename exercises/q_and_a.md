@@ -25,9 +25,7 @@ First, sort the deck and remove cards until it matches the number of players:
 
 The 5 Problem People cards are the ones which do not say "Speaker" or "Alex Audience".
 Mix them and randomly pick out the requisite number. Fill the rest with Alex Audience
-cards sufficient to add up to one less than the number of participants.
-
-The first round, add the Speaker card to this stack.
+cards sufficient to add up to the number of participants.
 
 One player is to shuffle these cards and deals them face down to all of 
 the other players. The player with the Speaker card reveals it.  All
@@ -43,8 +41,8 @@ The Speaker is attempting to resist attempts to derail his/her Q&A session by
 various Problem People. The Problem People are trying to make the speaker look
 bad or promote themselves.
 
-Each turn begins with the Speaker giving a 30-second talk on some topic. This topic can
-be chosen by the Speaker based on a talk they gave/are giving at some conference.
+Each turn begins with the Speaker giving a 30 second to 2 minute talk on some topic. 
+This topic can be chosen by the Speaker based on a talk they gave/are giving at some conference.
 Alternately, the Speaker can choose from the Topic Deck:
 
 * Shuffle the Topic Cards.
@@ -69,9 +67,8 @@ feedback on how s/he handled the Q&A issues.
 Next Speaker
 ------------
 
-At the end of the round, the Alex Audience with the lowest number 
-becomes the next Speaker, unless they have been the Speaker already, 
-in which case the next numbered Alex Audience.
+At the end of the round, the speaker collects all of the cards, shuffles them
+and re-deals them out.  If the same person gets the speaker card, 
 
 Notes on Problem People
 -----------------------

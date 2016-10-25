@@ -15,3 +15,8 @@ as start_connects;
 note:
 
 Who: Josh
+
+The idea of snippet zoom is to show a little code at a time, and elide portions of code
+which are too long to show on the screen.  Do this in a way which lets students see 
+function start/end.  Some IDEs will help you do this by letting you "roll up" portions
+of the code.

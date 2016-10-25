@@ -108,7 +108,7 @@ Ported by Fabrício Tavares de Oliveira
 .lasso .hljs-attribute,
 .coffeescript .hljs-property,
 .hljs-phony {
-  color: #88f;
+  color: #2222f9;
 }
 
 
@@ -155,7 +155,7 @@ Ported by Fabrício Tavares de Oliveira
 
 .css .hljs-attribute,
 .html .hljs-attribute {
-  color: #e6550d;
+  color: #a03906;
 }
 
 .css .hljs-class,

@@ -7,10 +7,13 @@ for one or more talks.
 Time
 ----
 
-This exercise should take 5 minutes.
+This exercise should take 10 minutes.
 
 Setup
 -----
+
+Participants can use the topic they have brought with them to the session.
+If they do not have such a topic, then they should pick a topic card.
 
 Shuffle the topic cards.
 

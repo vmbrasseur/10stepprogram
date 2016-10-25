@@ -16,6 +16,8 @@ Setup
 Shuffle the topic cards and the audience cards in two seperate stacks.
 Each participant pulls two of each card.
 
+Alternately, speakers can use a talk they have already prepared.
+
 Participants will look at the two topic cards they have been given,
 and pick one of the two as their topic to speak on.  They will then
 return the unused topic to the deck.  Participants will not show

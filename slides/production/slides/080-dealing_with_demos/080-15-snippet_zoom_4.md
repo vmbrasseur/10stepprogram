@@ -15,3 +15,8 @@ from log_minutes
 note:
 
 Who: Josh
+
+And continue.
+
+Some presentation software will, alternately, let you graphically
+"zoom" on portions of the code; this can also work if used well.
