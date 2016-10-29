@@ -32,3 +32,4 @@ Originally intended to be a bibliography of the talk, it has since expanded to i
 * [10 things you should NEVER say during presentations](http://thenextweb.com/lifehacks/2013/09/12/10-things-you-should-never-say-during-presentations-2/) by Boris Veldhuijzen van Zanten 
 * [How to start speaking (in tech conferences)](https://medium.com/@karen_meep/how-to-start-speaking-in-tech-conferences-f64a9f3a84a6#.ev7mefjfq) by Karen Meep
 * [An Open Letter To Speakers](http://scottberkun.com/2011/an-open-letter-to-speakers/) by Scott Berkun
+* [Your slides do matter](https://daveyshafik.com/archives/70053-your-slides-do-matter.html) by Davey Shafik
