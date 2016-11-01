@@ -33,3 +33,4 @@ Originally intended to be a bibliography of the talk, it has since expanded to i
 * [How to start speaking (in tech conferences)](https://medium.com/@karen_meep/how-to-start-speaking-in-tech-conferences-f64a9f3a84a6#.ev7mefjfq) by Karen Meep
 * [An Open Letter To Speakers](http://scottberkun.com/2011/an-open-letter-to-speakers/) by Scott Berkun
 * [Your slides do matter](https://daveyshafik.com/archives/70053-your-slides-do-matter.html) by Davey Shafik
+* [Experienced speakers discuss how they prepare their talks](http://neilb.org/2016/10/30/preparing-a-talk.html) by Neil Block
