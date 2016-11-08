@@ -35,3 +35,4 @@ Originally intended to be a bibliography of the talk, it has since expanded to i
 * [Your slides do matter](https://daveyshafik.com/archives/70053-your-slides-do-matter.html) by Davey Shafik
 * [Experienced speakers discuss how they prepare their talks](http://neilb.org/2016/10/30/preparing-a-talk.html) by Neil Bowers
 * [Let's stop tormenting speakers about these four normal qualities](http://eloquentwoman.blogspot.com/2016/10/lets-stop-tormenting-speakers-about.html?m=1) by Denise Graveline
+* [How to Write a Conference Talk Proposal](http://rikkiendsley.com/?p=390) by Rikki Endsley
