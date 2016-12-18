@@ -38,3 +38,4 @@ Originally intended to be a bibliography of the talk, it has since expanded to i
 * [How to Write a Conference Talk Proposal](http://rikkiendsley.com/?p=390) by Rikki Endsley
 * [7 tips for learning how to give a technical talk](https://opensource.com/life/16/9/7-tips-learning-how-give-technical-talk) by Ala Hino
 * [Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
+* [Why Your Excellent Conference Talk Was Rejected](https://www.promptworks.com/blog/why-your-excellent-talk-was-rejected) by Sarah Gray
