@@ -40,3 +40,4 @@ Originally intended to be a bibliography of the talk, it has since expanded to i
 * [Demystifying Public Speaking](https://abookapart.com/products/demystifying-public-speaking) by Lara Hogan
 * [Why Your Excellent Conference Talk Was Rejected](https://www.promptworks.com/blog/why-your-excellent-talk-was-rejected) by Sarah Gray
 * [A Checklist for More Persuasive Presentations](https://hbr.org/2016/10/a-checklist-for-more-persuasive-presentations) by Dorie Clark
+* [Three tips for getting a talk accepted at Fluent… or any other technology conference, tbh.](https://medium.com/@bentlegen/three-tips-for-getting-a-talk-accepted-at-fluent-9eff841efc54#.uwoh77m3m) by Ben Vinegar
