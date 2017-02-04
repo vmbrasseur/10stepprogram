@@ -44,3 +44,4 @@ Originally intended to be a bibliography of the talk, it has since expanded to i
 * [How to Become a Public Speaker in 1 Year: Gain the confidence to engage audiences on and offstage](https://www.amazon.com/dp/B01N4HX7ZJ) by Catt Small
 * [10 ways for a conference to upset their speakers](https://www.troyhunt.com/10-ways-for-a-conference-to-upset-their-speakers/) by Troy Hunt
 * [Speaker style bingo: 10 presentation anti-patterns](https://www.troyhunt.com/speaker-style-bingo-10-presentation/) by Troy Hunt
+* [VIDEO: How to get started with technical public speaking!](http://www.hanselman.com/blog/VIDEOHowToGetStartedWithTechnicalPublicSpeaking.aspx) by Scott Hanselman, Kendra Havens, Maria Naggaga Nakanwagi, Kasey Uhlenhuth, and Donovan Brown
