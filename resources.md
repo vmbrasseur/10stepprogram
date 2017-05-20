@@ -49,3 +49,4 @@ Originally intended to be a bibliography of the talk, it has since expanded to i
 * [A Public Speaking Experiment: Blank Slides](https://medium.com/upday-devs/a-public-speaking-experiment-blank-slides-c2fc09289825#.z94mgux2f) by Florina Muntenescu
 * [The Three Things I’ve Learned From Eighteen Years of Public Speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902) by Jer Thorpe
 * [Speech Anxiety for Game Developers](http://www.gamesindustry.biz/articles/2017-04-11-speech-anxiety-for-game-developers) by Brie Code
+* [WHY YOU SHOULD AIM FOR 100 REJECTIONS A YEAR](http://lithub.com/why-you-should-aim-for-100-rejections-a-year/) by Kim Liao
